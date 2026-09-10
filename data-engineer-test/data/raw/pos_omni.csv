@@ -1,0 +1,366 @@
+intervention_point_id,intervention_point_code,intervention_point_name,intervention_point_address,intervention_point_province,intervention_point_locality,intervention_point_postal_code,intervention_point_latitude,intervention_point_longitude,intervention_point_is_active,created_at,updated_at
+1,PDV000001,NutriSalud Estación 1,Calle 40 Nº 105,Pontevedra,Localidad 42,36371,41.368505,-2.314403,True,2026-01-12,2026-01-13
+2,PDV000002,Parafarma Look Bulevar 2,Calle 86 Nº 98,Cantabria,Localidad 23,50338,40.38211,-4.183453,True,2022-10-20,2024-12-31
+3,PDV000003,FarmaVida Estación 3,Calle 37 Nº 54,Girona,Localidad 56,48009,40.671294,-5.23966,True,2025-12-09,2025-12-12
+4,PDV000004,Herbolario Natura Avenida 4,Calle 87 Nº 55,Murcia,Localidad 66,41010,42.111763,2.793883,True,2025-12-09,2025-12-12
+5,PDV000005,BioPharma Plus Norte 5,Calle 37 Nº 132,Granada,Localidad 80,31966,36.719081,2.695196,False,2025-11-05,2025-11-27
+6,PDV000006,Parafarma Look Estación 6,Calle 29 Nº 51,Lleida,Localidad 19,11600,36.355846,3.097594,True,2025-06-16,2025-10-13
+7,PDV000007,DermaPoint Norte 7,Calle 54 Nº 148,Tarragona,Localidad 25,35164,39.806704,-6.225796,True,2026-03-12,2026-03-13
+8,PDV000008,FarmaVida Norte 8,Calle 55 Nº 57,Murcia,Localidad 23,43944,39.577034,-2.276687,True,2025-12-09,2025-12-12
+9,PDV000009,NutriSalud Avenida 9,Calle 18 Nº 119,Valencia/València,Localidad 68,46629,40.584983,2.670499,False,2025-03-05,2026-08-25
+10,PDV000010,Herbolario Natura Bulevar 10,Calle 71 Nº 115,Madrid,Localidad 21,41108,39.465537,0.172388,False,2025-11-05,2025-11-27
+11,PDV000011,SaludExpress Avenida 11,Calle 36 Nº 113,"Palmas, Las",Localidad 10,28725,37.805601,-5.068321,True,2024-05-18,2025-10-24
+12,PDV000012,FarmaCentral Norte 12,Calle 20 Nº 60,Zaragoza,Localidad 50,20014,41.439427,-8.490716,True,2026-02-23,2026-02-24
+13,PDV000013,MediPlus Mercado 13,Calle 70 Nº 120,Asturias,Localidad 54,14080,37.592625,-4.006192,False,2025-11-05,2025-11-27
+14,PDV000014,DermaPoint Centro 14,Calle 98 Nº 148,Girona,Localidad 49,41259,36.0454,-4.867839,True,2025-09-08,2025-11-04
+15,PDV000015,MediPlus Bulevar 15,Calle 69 Nº 140,Alicante/Alacant,Localidad 78,24453,39.759367,-5.861015,True,2025-06-16,2025-10-13
+16,PDV000016,Herbolario Natura Centro 16,Calle 50 Nº 87,Murcia,Localidad 52,20816,42.471894,2.286224,False,2025-03-05,2026-08-25
+17,PDV000017,DermaPoint Centro 17,Calle 51 Nº 145,Valladolid,Localidad 4,15501,40.949172,-7.590186,False,2025-03-05,2026-08-25
+18,PDV000018,Herbolario Natura Sur 18,Calle 7 Nº 67,Araba/Álava,Localidad 49,31453,37.629784,-5.181743,False,2025-11-05,2025-11-27
+19,PDV000019,MediPlus Estación 19,Calle 97 Nº 108,Madrid,Localidad 33,15367,39.621363,0.137706,False,2025-11-05,2025-11-27
+20,PDV000020,FarmaVida Mercado 20,Calle 29 Nº 18,Madrid,Localidad 6,12033,43.31201,-6.788055,True,2021-11-03,2025-10-13
+21,PDV000021,FarmaVida Sur 21,Calle 31 Nº 33,Málaga,Localidad 61,17496,40.342566,-6.553647,True,2020-06-04,2026-07-22
+22,PDV000022,SaludExpress Mercado 22,Calle 22 Nº 30,Madrid,Localidad 21,30384,36.83236,-8.976452,True,2023-11-20,2026-07-25
+23,PDV000023,SaludExpress Bulevar 23,Calle 51 Nº 51,Málaga,Localidad 10,48803,41.317731,-1.396746,True,2020-06-04,2026-07-22
+24,PDV000024,NutriSalud Estación 24,Calle 88 Nº 31,Almería,Localidad 73,12691,38.673469,-3.902437,True,2022-10-20,2024-12-31
+25,PDV000025,Vitalia Farma Norte 25,Calle 65 Nº 88,Alicante/Alacant,Localidad 2,37528,42.331948,-7.97021,True,2022-10-20,2024-12-31
+26,PDV000026,Vitalia Farma Avenida 26,Calle 91 Nº 40,Ciudad Real,Localidad 56,21543,41.650224,2.864969,False,2026-01-02,2026-09-07
+27,PDV000027,SaludExpress Avenida 27,Calle 60 Nº 112,Burgos,Localidad 76,27589,38.481745,-6.206761,True,2020-06-04,2026-09-07
+28,PDV000028,NutriSalud Estación 28,Calle 58 Nº 63,Ceuta,Localidad 60,47345,40.699554,-4.524735,True,2021-03-24,2026-09-07
+29,PDV000029,FarmaVida Avenida 29,Calle 42 Nº 47,Sevilla,Localidad 63,23901,38.732152,-6.04476,True,2020-06-04,2026-09-07
+30,PDV000030,SaludExpress Estación 30,Calle 72 Nº 3,Murcia,Localidad 67,22521,36.65922,-0.227059,True,2021-03-24,2026-09-07
+31,PDV000031,Herbolario Natura Plaza 31,Calle 89 Nº 122,"Balears, Illes",Localidad 63,39371,42.105583,-8.127528,True,2020-06-04,2026-09-07
+32,PDV000032,Parafarma Look Bulevar 32,Calle 89 Nº 63,Zaragoza,Localidad 40,48112,38.841457,-2.326241,True,2024-08-08,2026-07-02
+33,PDV000033,Vitalia Farma Bulevar 33,Calle 96 Nº 141,Gipuzkoa,Localidad 43,33056,41.411983,-5.886453,True,2023-05-31,2025-11-04
+34,PDV000034,SaludExpress Plaza 34,Calle 16 Nº 50,León,Localidad 41,17835,41.720184,2.681057,False,2026-01-02,2026-09-07
+35,PDV000035,BioPharma Plus Plaza 35,Calle 28 Nº 124,Valencia/València,Localidad 36,48639,43.519874,-2.689575,False,2021-11-03,2025-10-13
+36,PDV000036,SaludExpress Norte 36,Calle 25 Nº 76,Barcelona,Localidad 30,33650,37.3817,-9.121731,True,2025-06-16,2025-10-13
+37,PDV000037,FarmaCentral Sur 37,Calle 6 Nº 14,Alicante,Localidad 71,29145,41.370114,-7.708878,True,2026-01-12,2026-01-13
+38,PDV000038,Herbolario Natura Norte 38,Calle 74 Nº 73,Madrid,Localidad 61,41373,39.39161,-6.977018,True,2026-05-26,2026-05-27
+39,PDV000039,FarmaVida Estación 39,Calle 62 Nº 30,Barcelona,Localidad 9,36260,39.786449,-2.029533,False,2025-03-05,2026-08-25
+40,PDV000040,FarmaVida Sur 40,Calle 20 Nº 145,Córdoba,Localidad 39,15582,43.65317,-7.80751,True,2026-02-05,2026-08-25
+41,PDV000041,MediPlus Plaza 41,Calle 67 Nº 98,"Palmas, Las",Localidad 58,39014,38.289619,-1.884583,False,2025-03-05,2026-08-25
+42,PDV000042,MediPlus Estación 42,Calle 73 Nº 16,SEVILLA,Localidad 79,16503,43.296445,-6.681872,False,2021-11-03,2025-10-13
+43,PDV000043,Parafarma Look Estación 43,Calle 85 Nº 21,ZARAGOZA,Localidad 21,25719,37.338364,-8.354183,False,2021-11-03,2025-10-13
+44,PDV000044,FarmaVida Bulevar 44,Calle 58 Nº 121,Madrid,Localidad 38,12139,37.782367,-0.392357,False,2025-11-05,2025-11-27
+45,PDV000045,Herbolario Natura Norte 45,Calle 88 Nº 60,Barcelona,Localidad 34,50963,40.54138,0.829212,False,2025-11-05,2025-11-27
+46,PDV000046,Parafarma Look Bulevar 46,Calle 70 Nº 58,Sevilla,Localidad 20,27408,42.36506,-8.400236,True,2026-07-28,2026-07-29
+47,PDV000047,BioPharma Plus Estación 47,Calle 96 Nº 146,Toledo,Localidad 37,38780,36.957523,-0.622657,True,2026-04-21,2026-04-22
+48,PDV000048,MediPlus Estación 48,Calle 65 Nº 139,"Coruña, A",Localidad 64,38688,36.619402,-8.797754,False,2025-11-05,2025-11-27
+49,PDV000049,MediPlus Mercado 49,Calle 78 Nº 65,Madrid,Localidad 4,15985,37.762718,-0.803841,False,2025-11-05,2025-11-27
+50,PDV000050,DermaPoint Centro 50,Calle 98 Nº 69,Valencia/València,Localidad 74,12636,41.875939,-7.092597,True,2020-06-04,2026-09-07
+51,PDV000051,FarmaCentral Avenida 51,Calle 36 Nº 47,Burgos,Localidad 75,38566,40.887842,-3.104255,False,2026-01-02,2026-09-07
+52,PDV000052,NutriSalud Avenida 52,Calle 45 Nº 105,León,Localidad 43,31040,41.160028,1.507437,False,2026-01-02,2026-09-07
+53,PDV000053,Vitalia Farma Bulevar 53,Calle 89 Nº 127,Murcia,Localidad 37,36244,42.264458,-2.368783,True,2021-03-24,2026-09-07
+54,PDV000054,Herbolario Natura Norte 54,Calle 41 Nº 65,Valladolid,Localidad 42,17597,43.470422,-4.207394,True,2020-06-04,2026-09-07
+55,PDV000055,FarmaCentral Centro 55,Calle 85 Nº 139,Madrid,Localidad 60,37082,36.417371,-2.767664,True,2022-10-20,2024-12-31
+56,PDV000056,DermaPoint Avenida 56,Calle 81 Nº 114,Cantabria,Localidad 7,23340,38.056333,-7.649233,True,2023-11-20,2026-07-22
+57,PDV000057,SaludExpress Avenida 57,Calle 90 Nº 125,Jaén,Localidad 16,11891,43.49323,-1.628217,True,2020-06-04,2026-07-22
+58,PDV000058,Parafarma Look Sur 58,Calle 71 Nº 4,Vizcaya,Localidad 71,36738,36.717711,3.20244,True,2026-04-22,2026-05-13
+59,PDV000059,NutriSalud Avenida 59,Calle 16 Nº 40,Cádiz,Localidad 64,29127,39.918315,-5.854846,True,2020-06-04,2026-07-22
+60,PDV000060,Herbolario Natura Avenida 60,Calle 32 Nº 117,Huelva,Localidad 71,19479,38.953612,2.315539,True,2022-10-20,2024-12-31
+61,PDV000061,FarmaCentral Sur 61,Calle 9 Nº 71,Barcelona,Localidad 54,32274,43.193713,-2.902505,False,2021-11-03,2025-10-13
+62,PDV000062,FarmaVida Estación 62,Calle 93 Nº 77,Málaga,Localidad 76,48005,43.691548,-3.130532,False,2025-11-05,2025-11-27
+63,PDV000063,BioPharma Plus Avenida 63,Calle 62 Nº 89,Granada,Localidad 43,46170,41.87412,-4.547153,True,2026-03-13,2026-03-13
+64,PDV000064,Vitalia Farma Plaza 64,Calle 90 Nº 62,Madrid,Localidad 74,35098,37.798431,0.47186,False,2025-11-05,2025-11-27
+65,PDV000065,FarmaVida Mercado 65,Calle 96 Nº 122,Bizkaia,Localidad 49,35302,43.610788,0.68416,True,2025-06-16,2025-10-13
+66,PDV000066,BioPharma Plus Avenida 66,Calle 5 Nº 33,Valladolid,Localidad 65,48678,38.556359,-8.035406,False,2025-11-05,2025-11-27
+67,PDV000067,Herbolario Natura Norte 67,Calle 59 Nº 4,Pontevedra,Localidad 19,36868,42.706184,2.921456,True,2026-01-09,2026-01-10
+68,PDV000068,NutriSalud Avenida 68,Calle 34 Nº 87,Barcelona,Localidad 80,36049,41.003742,1.432243,True,2022-05-09,2025-12-04
+69,PDV000069,FarmaCentral Bulevar 69,Calle 41 Nº 125,Madrid,Localidad 70,12352,40.754438,-6.341895,False,2025-11-05,2025-11-27
+70,PDV000070,SaludExpress Plaza 70,Calle 96 Nº 24,Málaga,Localidad 56,16451,41.854847,-0.430976,True,2022-05-09,2025-11-04
+71,PDV000071,NutriSalud Avenida 71,Calle 22 Nº 77,Valencia/València,Localidad 4,13014,38.497685,-8.592898,True,2022-05-09,2025-11-04
+72,PDV000072,Vitalia Farma Mercado 72,Calle 56 Nº 38,Madrid,Localidad 32,44810,39.172798,-0.709315,False,2025-11-05,2025-11-27
+73,PDV000073,BioPharma Plus Sur 73,Calle 23 Nº 21,Toledo,Localidad 79,35070,40.77177,-6.265545,False,2026-02-04,2026-02-05
+74,PDV000074,DermaPoint Sur 74,Calle 60 Nº 66,"Palmas, Las",Localidad 59,26733,41.134674,2.026247,True,2025-06-23,2025-10-13
+75,PDV000075,Herbolario Natura Estación 75,Calle 87 Nº 140,Almería,Localidad 21,14840,39.401319,-4.945873,False,2025-11-05,2025-11-27
+76,PDV000076,DermaPoint Estación 76,Calle 82 Nº 109,Madrid,Localidad 33,39939,42.50884,-6.789866,True,2022-10-20,2024-12-31
+77,PDV000077,MediPlus Avenida 77,Calle 14 Nº 61,Alicante/Alacant,Localidad 49,47481,38.763986,-5.572008,True,2024-11-20,2025-10-13
+78,PDV000078,SaludExpress Centro 78,Calle 85 Nº 102,Barcelona,Localidad 36,10530,40.357653,-0.658926,False,2025-11-05,2025-11-27
+79,PDV000079,FarmaVida Avenida 79,Calle 37 Nº 59,Murcia,Localidad 78,33089,37.686335,-6.904337,False,2025-11-05,2025-11-27
+80,PDV000080,SaludExpress Sur 80,Calle 81 Nº 25,Cádiz,Localidad 6,30246,42.072301,-8.879607,False,2025-11-05,2025-11-27
+81,PDV000081,Vitalia Farma Sur 81,Calle 12 Nº 76,Cantabria,Localidad 42,37230,37.352429,-7.634787,False,2025-11-05,2025-11-27
+82,PDV000082,FarmaCentral Mercado 82,Calle 68 Nº 129,Valencia/València,Localidad 35,20783,37.97867,1.091092,True,2020-06-04,2026-09-08
+83,PDV000083,Herbolario Natura Estación 83,Calle 96 Nº 87,Madrid,Localidad 15,40692,43.414278,-7.526462,True,2026-02-09,2026-09-07
+84,PDV000084,Parafarma Look Bulevar 84,Calle 72 Nº 94,Madrid,Localidad 12,35858,36.107174,-2.539189,True,2020-06-04,2026-09-07
+85,PDV000085,Herbolario Natura Mercado 85,Calle 87 Nº 68,Barcelona,Localidad 75,34970,42.332613,2.547678,True,2022-05-09,2026-03-26
+86,PDV000086,NutriSalud Plaza 86,Calle 61 Nº 7,Barcelona,Localidad 80,46792,38.525648,-1.612964,True,2025-06-16,2025-10-13
+87,PDV000087,NutriSalud Avenida 87,Calle 90 Nº 78,Madrid,Localidad 53,17646,37.076283,2.622895,True,2024-11-20,2025-10-13
+88,PDV000088,SaludExpress Avenida 88,Calle 15 Nº 25,Málaga,Localidad 31,45228,37.044613,-3.584089,True,2020-06-04,2026-07-22
+89,PDV000089,FarmaCentral Bulevar 89,Calle 76 Nº 40,Madrid,Localidad 54,52920,36.762467,-3.134227,True,2022-01-31,2025-10-13
+90,PDV000090,MediPlus Estación 90,Calle 5 Nº 95,Alicante/Alacant,Localidad 28,39057,39.424158,-6.324981,True,2022-05-09,2025-11-04
+91,PDV000091,Vitalia Farma Norte 91,Calle 88 Nº 95,Madrid,Localidad 70,52259,38.761789,-4.283441,True,2025-12-09,2025-12-12
+92,PDV000092,Parafarma Look Norte 92,Calle 59 Nº 24,Alicante/Alacant,Localidad 28,52054,40.924095,2.935776,False,2021-11-03,2025-10-13
+93,PDV000093,FarmaVida Mercado 93,Calle 32 Nº 33,Madrid,Localidad 73,23448,36.528298,0.340983,True,2022-10-20,2024-12-31
+94,PDV000094,Parafarma Look Plaza 94,Calle 30 Nº 85,Madrid,Localidad 19,49058,36.021834,1.515917,False,2025-11-05,2025-11-27
+95,PDV000095,BioPharma Plus Sur 95,Calle 33 Nº 45,Granada,Localidad 15,11689,37.014885,-4.786147,True,2026-05-07,2026-05-07
+96,PDV000096,Parafarma Look Mercado 96,Calle 23 Nº 68,Madrid,Localidad 7,18307,41.711229,-2.671322,True,2026-05-12,2026-05-13
+97,PDV000097,NutriSalud Avenida 97,Calle 58 Nº 93,Málaga,Localidad 66,48906,36.839716,-2.951633,True,2025-06-16,2025-10-13
+98,PDV000098,DermaPoint Centro 98,Calle 94 Nº 134,Guadalajara,Localidad 39,40018,40.953723,-8.907502,True,2020-06-04,2026-09-07
+99,PDV000099,Herbolario Natura Bulevar 99,Calle 55 Nº 28,Murcia,Localidad 63,39069,36.565879,-8.28204,True,2021-03-24,2026-09-07
+100,PDV000100,DermaPoint Sur 100,Calle 9 Nº 33,León,Localidad 36,50915,40.874691,-2.390709,True,2020-06-04,2026-09-07
+101,PDV000101,Vitalia Farma Bulevar 101,Calle 77 Nº 136,"Coruña, A",Localidad 38,39734,39.892743,-3.879488,True,2020-06-04,2026-09-07
+102,PDV000102,NutriSalud Plaza 102,Calle 56 Nº 116,Asturias,Localidad 30,37119,38.609773,-3.585914,False,2024-05-17,2026-07-02
+103,PDV000103,MediPlus Norte 103,Calle 41 Nº 110,PONTEVEDRA,Localidad 41,26704,38.882118,-7.37675,True,2021-11-03,2025-10-13
+104,PDV000104,Herbolario Natura Norte 104,Calle 12 Nº 22,Murcia,Localidad 12,38303,36.743546,0.00883,False,2025-11-05,2025-11-27
+105,PDV000105,BioPharma Plus Centro 105,Calle 76 Nº 144,Santa Cruz de Tenerife,Localidad 72,31603,41.159102,-4.123811,True,2022-10-20,2024-12-31
+106,PDV000106,MediPlus Centro 106,Calle 37 Nº 80,Sevilla,Localidad 46,16789,40.449973,-6.619491,False,2025-03-05,2026-08-25
+107,PDV000107,Herbolario Natura Plaza 107,Calle 14 Nº 90,Girona,Localidad 72,34088,36.884617,-5.790041,True,2025-12-09,2025-12-12
+108,PDV000108,Parafarma Look Bulevar 108,Calle 99 Nº 143,Granada,Localidad 4,49911,43.153949,1.151206,True,2026-08-25,2026-08-26
+109,PDV000109,SaludExpress Centro 109,Calle 24 Nº 70,Zaragoza,Localidad 40,32270,38.70288,-7.01429,False,2023-12-27,2026-07-02
+110,PDV000110,BioPharma Plus Bulevar 110,Calle 9 Nº 37,Asturias,Localidad 4,16013,41.745061,-6.589326,True,2025-06-16,2025-10-13
+111,PDV000111,MediPlus Avenida 111,Calle 21 Nº 95,A Coruña,Localidad 40,31258,41.981634,-2.148321,True,2025-06-20,2025-10-13
+112,PDV000112,NutriSalud Centro 112,Calle 20 Nº 41,"Balears, Illes",Localidad 80,13261,41.189559,-5.871504,True,2025-12-09,2026-03-01
+113,PDV000113,MediPlus Avenida 113,Calle 78 Nº 114,Lleida,Localidad 54,27902,37.659881,-2.844437,True,2022-05-09,2025-11-04
+114,PDV000114,Vitalia Farma Bulevar 114,Calle 15 Nº 73,Alicante/Alacant,Localidad 76,41891,40.057393,-5.413916,False,2025-11-05,2025-11-27
+115,PDV000115,Parafarma Look Bulevar 115,Calle 77 Nº 15,Zaragoza,Localidad 1,23397,38.320929,-6.638452,True,2023-08-03,2026-07-02
+116,PDV000116,BioPharma Plus Estación 116,Calle 42 Nº 31,Vizcaya,Localidad 1,42596,41.752009,-7.086245,True,2026-05-18,2026-05-21
+117,PDV000117,MediPlus Plaza 117,Calle 65 Nº 144,Madrid,Localidad 46,14723,39.057448,0.049721,False,2025-03-05,2026-08-25
+118,PDV000118,MediPlus Centro 118,Calle 59 Nº 20,Madrid,Localidad 41,47732,39.305489,-4.204272,False,2025-11-05,2025-11-27
+119,PDV000119,MediPlus Estación 119,Calle 15 Nº 104,"Balears, Illes",Localidad 3,31284,37.323423,2.63994,True,2020-06-04,2026-09-07
+120,PDV000120,Herbolario Natura Mercado 120,Calle 12 Nº 112,Ávila,Localidad 14,25945,39.354709,-4.254332,False,2026-01-02,2026-09-07
+121,PDV000121,NutriSalud Bulevar 121,Calle 40 Nº 87,"Coruña, A",Localidad 29,31827,41.999208,-8.33762,True,2020-06-04,2026-09-07
+122,PDV000122,NutriSalud Plaza 122,Calle 45 Nº 90,Cantabria,Localidad 19,25484,36.791595,-6.0748,True,2020-06-04,2026-09-07
+123,PDV000123,BioPharma Plus Sur 123,Calle 98 Nº 20,León,Localidad 23,51153,39.804701,0.206017,True,2020-06-04,2026-09-07
+124,PDV000124,DermaPoint Avenida 124,Calle 83 Nº 83,Cádiz,Localidad 41,19893,39.386174,-3.391594,True,2026-03-24,2026-03-25
+125,PDV000125,SaludExpress Estación 125,Calle 76 Nº 15,Zamora,Localidad 46,43248,36.571268,-3.482045,True,2020-06-04,2026-09-07
+126,PDV000126,FarmaVida Centro 126,Calle 48 Nº 74,Málaga,Localidad 10,52248,42.654725,1.476696,False,2025-11-05,2025-11-27
+127,PDV000127,DermaPoint Bulevar 127,Calle 60 Nº 149,Barcelona,Localidad 71,12688,39.46295,0.903681,False,2025-11-05,2025-11-27
+128,PDV000128,Parafarma Look Mercado 128,Calle 78 Nº 122,Barcelona,Localidad 65,19886,43.374462,-3.623409,False,2025-11-05,2025-11-27
+129,PDV000129,Vitalia Farma Norte 129,Calle 65 Nº 45,Barcelona,Localidad 6,26236,41.448687,3.186424,True,2024-11-20,2025-10-13
+130,PDV000130,FarmaCentral Sur 130,Calle 48 Nº 73,Guadalajara,Localidad 50,36789,41.963379,-0.745889,True,2026-04-29,2026-04-30
+131,PDV000131,FarmaVida Mercado 131,Calle 43 Nº 25,Valencia,Localidad 72,35333,38.187932,-0.180956,True,2026-04-29,2026-04-30
+132,PDV000132,DermaPoint Sur 132,Calle 11 Nº 150,A Coruña,Localidad 19,32925,38.388784,-1.033711,True,2026-04-29,2026-04-30
+133,PDV000133,MediPlus Sur 133,Calle 91 Nº 22,Toledo,Localidad 40,46629,38.900431,0.674941,True,2026-04-28,2026-04-30
+134,PDV000134,BioPharma Plus Norte 134,Calle 83 Nº 109,Madrid,Localidad 66,33712,36.140375,-5.408288,True,2025-11-17,2025-12-12
+135,PDV000135,Parafarma Look Mercado 135,Calle 99 Nº 125,Murcia,Localidad 25,24846,43.69982,-7.347691,True,2024-10-10,2025-11-04
+136,PDV000136,SaludExpress Norte 136,Calle 65 Nº 139,"Palmas, Las",Localidad 68,12473,41.096855,1.742549,True,2022-10-20,2026-04-29
+137,PDV000137,DermaPoint Sur 137,Calle 77 Nº 97,Burgos,Localidad 20,20633,37.392514,-0.570145,True,2020-06-04,2026-09-07
+138,PDV000138,DermaPoint Sur 138,Calle 6 Nº 106,Tarragona,Localidad 47,25566,43.465832,-1.606498,True,2025-10-29,2025-11-13
+139,PDV000139,Herbolario Natura Plaza 139,Calle 31 Nº 80,Granada,Localidad 61,22715,38.832375,2.63384,True,2025-07-17,2025-10-13
+140,PDV000140,Herbolario Natura Avenida 140,Calle 99 Nº 73,Sevilla,Localidad 49,42958,40.06144,2.874979,False,2025-11-05,2025-11-27
+141,PDV000141,Parafarma Look Sur 141,Calle 33 Nº 14,Zaragoza,Localidad 62,34327,40.269964,-8.007369,False,2025-11-05,2025-11-27
+142,PDV000142,FarmaCentral Norte 142,Calle 37 Nº 22,Madrid,Localidad 21,27877,39.459758,-2.831756,True,2025-12-09,2025-12-12
+143,PDV000143,MediPlus Norte 143,Calle 29 Nº 116,Gipuzkoa,Localidad 45,11747,39.194706,-4.30468,True,2022-10-20,2025-10-13
+144,PDV000144,Vitalia Farma Plaza 144,Calle 50 Nº 21,Madrid,Localidad 48,24715,36.217044,2.428406,True,2025-12-09,2025-12-12
+145,PDV000145,Vitalia Farma Sur 145,Calle 5 Nº 74,Zaragoza,Localidad 61,19095,41.843077,-3.389212,True,2025-06-20,2025-10-13
+146,PDV000146,DermaPoint Centro 146,Calle 11 Nº 5,Murcia,Localidad 33,24133,42.429216,-2.385067,True,2025-06-16,2025-10-13
+147,PDV000147,DermaPoint Bulevar 147,Calle 15 Nº 74,Cantabria,Localidad 31,29736,36.938232,-6.295662,True,2020-06-04,2026-07-02
+148,PDV000148,DermaPoint Avenida 148,Calle 9 Nº 29,Asturias,Localidad 64,49107,40.127614,-1.337368,True,2024-08-08,2026-07-02
+149,PDV000149,DermaPoint Plaza 149,Calle 92 Nº 37,Málaga,Localidad 38,38130,36.012045,-4.854518,False,2021-11-03,2025-10-13
+150,PDV000150,DermaPoint Bulevar 150,Calle 24 Nº 22,Valladolid,Localidad 68,33632,36.521131,-2.671651,False,2021-11-03,2025-10-13
+151,PDV000151,FarmaCentral Centro 151,Calle 50 Nº 121,Barcelona,Localidad 6,51659,38.978986,-4.59639,False,2025-11-05,2025-11-27
+152,PDV000152,FarmaVida Mercado 152,Calle 9 Nº 89,Asturias,Localidad 31,51173,36.798212,-1.968018,False,2025-11-05,2025-11-27
+153,PDV000153,Vitalia Farma Sur 153,Calle 6 Nº 91,"Balears, Illes",Localidad 70,32187,42.264018,-7.093877,False,2025-03-05,2026-08-25
+154,PDV000154,Herbolario Natura Avenida 154,Calle 81 Nº 47,Santa Cruz de Tenerife,Localidad 18,14135,41.513547,2.589425,True,2022-10-20,2024-12-31
+155,PDV000155,FarmaVida Estación 155,Calle 26 Nº 12,Barcelona,Localidad 26,12746,38.430088,-5.393044,True,2024-12-04,2026-09-07
+156,PDV000156,MediPlus Avenida 156,Calle 33 Nº 10,Jaén,Localidad 25,28750,38.748701,0.538604,True,2020-06-04,2026-07-22
+157,PDV000157,Vitalia Farma Estación 157,Calle 16 Nº 95,Araba/Álava,Localidad 56,36215,41.723469,1.972432,True,2022-05-09,2025-11-04
+158,PDV000158,MediPlus Mercado 158,Calle 24 Nº 128,Málaga,Localidad 64,34074,43.117191,-2.757124,False,2025-03-05,2026-08-25
+159,PDV000159,NutriSalud Bulevar 159,Calle 11 Nº 111,Valencia/València,Localidad 78,21826,40.200153,-5.252736,True,2024-08-08,2026-07-02
+160,PDV000160,NutriSalud Mercado 160,Calle 85 Nº 76,Madrid,Localidad 40,39223,40.640187,-3.930937,True,2021-11-03,2025-10-13
+161,PDV000161,Herbolario Natura Mercado 161,Calle 58 Nº 11,Jaén,Localidad 46,50294,43.68576,-5.840602,False,2025-11-05,2025-11-27
+162,PDV000162,FarmaVida Norte 162,Calle 86 Nº 104,Burgos,Localidad 47,43625,42.168439,-0.739426,False,2025-11-05,2025-11-27
+163,PDV000163,FarmaVida Sur 163,Calle 87 Nº 113,Toledo,Localidad 5,18272,36.517697,0.509294,True,2026-06-30,2026-07-01
+164,PDV000164,Vitalia Farma Mercado 164,Calle 50 Nº 146,Alicante/Alacant,Localidad 5,49655,37.181474,-3.630976,True,2020-06-04,2026-09-07
+165,PDV000165,Vitalia Farma Mercado 165,Calle 57 Nº 20,Madrid,Localidad 74,19023,40.076841,-4.284771,True,2020-06-04,2026-09-08
+166,PDV000166,SaludExpress Plaza 166,Calle 15 Nº 7,Alicante/Alacant,Localidad 24,42705,39.986639,2.210636,False,2025-11-05,2025-11-27
+167,PDV000167,NutriSalud Estación 167,Calle 34 Nº 115,Madrid,Localidad 28,50099,38.198942,2.247634,False,2026-02-04,2026-02-05
+168,PDV000168,Herbolario Natura Plaza 168,Calle 16 Nº 35,Girona,Localidad 10,39625,37.329454,-0.311539,True,2020-06-04,2026-09-07
+169,PDV000169,NutriSalud Mercado 169,Calle 86 Nº 89,Lleida,Localidad 9,46044,40.174719,1.930779,True,2020-06-04,2026-09-07
+170,PDV000170,BioPharma Plus Sur 170,Calle 47 Nº 131,León,Localidad 29,17953,43.585521,0.680027,True,2020-07-03,2026-07-02
+171,PDV000171,Parafarma Look Avenida 171,Calle 4 Nº 93,Asturias,Localidad 71,47504,38.840616,0.826138,False,2025-11-05,2025-11-27
+172,PDV000172,FarmaCentral Sur 172,Calle 79 Nº 23,Málaga,Localidad 9,30269,39.065832,-0.266637,True,2020-06-04,2026-07-22
+173,PDV000173,Herbolario Natura Bulevar 173,Calle 99 Nº 105,Asturias,Localidad 74,14833,36.965016,-5.305451,True,2023-11-20,2026-07-22
+174,PDV000174,NutriSalud Avenida 174,Calle 60 Nº 133,Madrid,Localidad 45,18410,42.760293,0.531313,True,2023-11-20,2026-07-22
+175,PDV000175,DermaPoint Sur 175,Calle 99 Nº 34,Jaén,Localidad 56,42955,43.012484,-8.601798,True,2020-06-04,2026-07-22
+176,PDV000176,NutriSalud Sur 176,Calle 39 Nº 43,Madrid,Localidad 21,31145,43.197481,-6.459074,True,2023-11-20,2026-07-25
+177,PDV000177,FarmaCentral Estación 177,Calle 11 Nº 65,"Coruña, A",Localidad 26,51619,43.363908,-5.841917,False,2025-11-05,2025-11-27
+178,PDV000178,SaludExpress Norte 178,Calle 65 Nº 44,Sevilla,Localidad 76,48053,37.187296,-0.999966,False,2025-11-05,2025-11-27
+179,PDV000179,DermaPoint Mercado 179,Calle 6 Nº 8,Cádiz,Localidad 11,12979,43.303811,0.414882,True,2026-03-10,2026-03-30
+180,PDV000180,SaludExpress Plaza 180,Calle 99 Nº 147,Asturias,Localidad 54,50508,40.920232,-3.02472,True,2023-11-20,2026-07-22
+181,PDV000181,FarmaCentral Estación 181,Calle 83 Nº 78,Córdoba,Localidad 62,26048,42.196099,-0.669115,False,2021-11-03,2025-10-13
+182,PDV000182,SaludExpress Avenida 182,Calle 10 Nº 16,Castellón/Castelló,Localidad 21,38809,39.200287,-3.448029,True,2024-08-08,2026-07-02
+183,PDV000183,Vitalia Farma Sur 183,Calle 41 Nº 82,Madrid,Localidad 45,36130,37.006899,-4.631194,False,2025-11-05,2025-11-27
+184,PDV000184,FarmaCentral Norte 184,Calle 41 Nº 62,Murcia,Localidad 60,18029,38.059532,-6.176222,True,2022-05-09,2025-11-04
+185,PDV000185,NutriSalud Centro 185,Calle 38 Nº 99,"Balears, Illes",Localidad 79,37402,37.911681,1.602875,True,2020-06-04,2026-09-07
+186,PDV000186,BioPharma Plus Mercado 186,Calle 74 Nº 81,Granada,Localidad 25,20442,39.836645,-2.814467,True,2026-02-09,2026-09-07
+187,PDV000187,Herbolario Natura Estación 187,Calle 64 Nº 6,Madrid,Localidad 12,35771,39.891922,2.880252,True,2025-12-09,2025-12-12
+188,PDV000188,Parafarma Look Mercado 188,Calle 7 Nº 13,Almería,Localidad 37,42433,40.600895,1.319906,True,2020-06-04,2026-09-07
+189,PDV000189,Herbolario Natura Estación 189,Calle 69 Nº 3,Málaga,Localidad 14,38241,37.031299,-5.967641,True,2022-10-20,2024-12-31
+190,PDV000190,Vitalia Farma Bulevar 190,Calle 6 Nº 103,Guadalajara,Localidad 7,47373,40.32599,-4.7322,True,2025-07-22,2025-11-04
+191,PDV000191,SaludExpress Norte 191,Calle 65 Nº 116,Castelló,Localidad 71,28331,42.354897,-1.447156,True,2026-04-17,2026-04-19
+192,PDV000192,DermaPoint Norte 192,Calle 17 Nº 25,"Coruña, A",Localidad 51,34457,42.120709,-5.027525,True,2023-09-14,2026-04-09
+193,PDV000193,Vitalia Farma Sur 193,Calle 26 Nº 131,Barcelona,Localidad 52,42773,36.309963,-8.809684,False,2025-11-05,2025-11-27
+194,PDV000194,Vitalia Farma Avenida 194,Calle 67 Nº 117,Navarra,Localidad 20,49731,42.877114,-7.53876,False,2025-11-05,2025-11-27
+195,PDV000195,DermaPoint Mercado 195,Calle 21 Nº 101,Murcia,Localidad 79,29610,40.57168,-2.907831,True,2025-12-09,2025-12-12
+196,PDV000196,FarmaCentral Avenida 196,Calle 39 Nº 122,Cádiz,Localidad 3,34140,38.550545,-7.918982,True,2025-06-20,2025-11-28
+197,PDV000197,MediPlus Estación 197,Calle 93 Nº 7,Granada,Localidad 77,41102,38.044584,-1.039554,False,2025-11-05,2025-11-27
+198,PDV000198,DermaPoint Plaza 198,Calle 93 Nº 14,Madrid,Localidad 75,41486,37.312943,-1.374282,True,2021-03-24,2026-09-07
+199,PDV000199,DermaPoint Bulevar 199,Calle 19 Nº 63,Zamora,Localidad 5,47523,43.30118,-7.915316,True,2020-06-04,2026-09-07
+200,PDV000200,FarmaVida Avenida 200,Calle 41 Nº 108,Madrid,Localidad 20,37063,41.316852,-4.129245,True,2026-02-09,2026-09-07
+201,PDV000201,DermaPoint Avenida 201,Calle 95 Nº 16,Sevilla,Localidad 18,43992,37.596531,-5.204376,True,2020-06-04,2026-09-07
+202,PDV000202,Herbolario Natura Bulevar 202,Calle 41 Nº 45,Bizkaia,Localidad 59,44939,38.635918,-4.835984,False,2021-11-03,2025-10-13
+203,PDV000203,SaludExpress Avenida 203,Calle 32 Nº 72,Murcia,Localidad 72,29562,37.731476,2.958674,True,2025-06-20,2025-10-13
+204,PDV000204,SaludExpress Estación 204,Calle 91 Nº 54,Bizkaia,Localidad 63,30777,39.694486,-2.237856,False,2025-11-05,2025-11-27
+205,PDV000205,SaludExpress Estación 205,Calle 16 Nº 147,Cádiz,Localidad 70,34883,42.897356,-4.328891,True,2022-05-09,2026-07-27
+206,PDV000206,Vitalia Farma Sur 206,Calle 38 Nº 11,Ávila,Localidad 37,15179,38.666999,-3.726061,False,2026-01-02,2026-09-07
+207,PDV000207,SaludExpress Avenida 207,Calle 28 Nº 52,"Balears, Illes",Localidad 69,27768,43.184284,-0.528242,True,2024-05-07,2026-09-07
+208,PDV000208,BioPharma Plus Norte 208,Calle 79 Nº 62,Madrid,Localidad 32,13326,41.157722,-2.608877,True,2022-05-09,2025-11-04
+209,PDV000209,Parafarma Look Centro 209,Calle 13 Nº 106,Málaga,Localidad 43,40959,36.774196,0.411652,False,2025-11-05,2025-11-27
+210,PDV000210,FarmaVida Sur 210,Calle 53 Nº 122,Sevilla,Localidad 62,52633,37.535811,2.845317,False,2025-11-05,2025-11-27
+211,PDV000211,Vitalia Farma Estación 211,Calle 83 Nº 16,Valencia/València,Localidad 12,52749,40.420827,-2.557081,True,2025-06-16,2025-10-13
+212,PDV000212,FarmaVida Sur 212,Calle 23 Nº 10,Girona,Localidad 51,42465,37.4346,0.13744,True,2026-04-06,2026-04-07
+213,PDV000213,SaludExpress Centro 213,Calle 2 Nº 77,Barcelona,Localidad 73,49503,36.826215,3.085723,False,2025-11-05,2025-11-27
+214,PDV000214,SaludExpress Avenida 214,Calle 68 Nº 127,Granada,Localidad 18,43044,39.60376,-6.870576,True,2025-06-20,2025-10-13
+215,PDV000215,NutriSalud Mercado 215,Calle 21 Nº 118,Alicante/Alacant,Localidad 33,22202,36.108448,-5.052387,False,2025-11-05,2025-11-27
+216,PDV000216,SaludExpress Plaza 216,Calle 23 Nº 104,Gipuzkoa,Localidad 55,43769,38.525035,-4.249501,True,2022-10-20,2025-10-13
+217,PDV000217,NutriSalud Sur 217,Calle 18 Nº 123,Madrid,Localidad 42,26256,36.052592,-4.466963,False,2025-11-05,2025-11-27
+218,PDV000218,Herbolario Natura Estación 218,Calle 43 Nº 78,Salamanca,Localidad 75,47544,36.088055,-1.06359,True,2022-05-09,2025-11-28
+219,PDV000219,Parafarma Look Centro 219,Calle 86 Nº 31,Córdoba,Localidad 60,30106,37.22982,-0.655472,False,2025-11-05,2025-11-27
+220,PDV000220,SaludExpress Norte 220,Calle 82 Nº 76,Madrid,Localidad 48,50280,37.700539,2.762743,False,2025-11-05,2025-11-27
+221,PDV000221,Herbolario Natura Sur 221,Calle 59 Nº 96,Cantabria,Localidad 54,45994,43.028536,0.242617,True,2023-11-20,2026-07-22
+222,PDV000222,Parafarma Look Plaza 222,Calle 88 Nº 21,Valencia/València,Localidad 68,39278,40.066933,-4.741511,True,2025-12-09,2025-12-12
+223,PDV000223,DermaPoint Norte 223,Calle 8 Nº 141,Alicante/Alacant,Localidad 65,23248,40.409803,-7.41186,True,2020-06-04,2026-09-07
+224,PDV000224,Vitalia Farma Avenida 224,Calle 15 Nº 53,Málaga,Localidad 75,42035,36.700251,-2.869271,True,2020-06-04,2026-09-07
+225,PDV000225,FarmaVida Avenida 225,Calle 17 Nº 132,Pontevedra,Localidad 54,39936,40.342116,-2.259155,False,2025-11-05,2025-11-27
+226,PDV000226,SaludExpress Centro 226,Calle 51 Nº 66,Madrid,Localidad 1,24280,40.452997,-8.729348,True,2020-06-04,2026-07-25
+227,PDV000227,Vitalia Farma Norte 227,Calle 70 Nº 16,Barcelona,Localidad 9,40937,36.244359,-4.148277,False,2025-11-05,2025-11-27
+228,PDV000228,BioPharma Plus Bulevar 228,Calle 48 Nº 98,Valladolid,Localidad 58,34739,38.892471,-0.697598,True,2024-11-20,2025-10-13
+229,PDV000229,FarmaCentral Sur 229,Calle 84 Nº 90,Córdoba,Localidad 16,21696,43.64492,-4.347461,False,2025-11-05,2025-11-27
+230,PDV000230,BioPharma Plus Plaza 230,Calle 1 Nº 6,Lleida,Localidad 39,40343,41.185949,-2.439989,True,2020-06-04,2026-09-07
+231,PDV000231,FarmaCentral Bulevar 231,Calle 30 Nº 64,MURCIA,Localidad 59,32685,37.194435,-6.925146,False,2021-11-03,2025-10-13
+232,PDV000232,NutriSalud Centro 232,Calle 85 Nº 108,Bizkaia,Localidad 79,11025,37.85313,-8.452135,True,2023-05-31,2025-11-04
+233,PDV000233,DermaPoint Centro 233,Calle 58 Nº 13,Santa Cruz de Tenerife,Localidad 32,12899,39.097443,-6.347325,False,2021-11-03,2025-10-13
+234,PDV000234,Parafarma Look Centro 234,Calle 18 Nº 129,Salamanca,Localidad 38,25346,42.281554,-0.08288,True,2020-06-04,2026-09-07
+235,PDV000235,Vitalia Farma Mercado 235,Calle 31 Nº 78,Castellón/Castelló,Localidad 19,44160,37.702029,-5.513688,False,2026-01-02,2026-09-07
+236,PDV000236,FarmaVida Sur 236,Calle 81 Nº 110,Ciudad Real,Localidad 72,42481,36.361008,-4.960373,True,2022-11-14,2026-04-29
+237,PDV000237,MediPlus Mercado 237,Calle 90 Nº 107,Barcelona,Localidad 53,19779,38.309141,-6.983125,True,2025-06-16,2025-10-13
+238,PDV000238,FarmaCentral Avenida 238,Calle 31 Nº 58,"Rioja, La",Localidad 39,19460,42.204476,2.225739,True,2024-08-12,2026-09-07
+239,PDV000239,FarmaCentral Bulevar 239,Calle 54 Nº 143,Girona,Localidad 68,18787,38.990827,-6.087055,False,2021-11-03,2025-10-13
+240,PDV000240,Vitalia Farma Norte 240,Calle 48 Nº 24,Tarragona,Localidad 69,22483,36.396832,-4.547684,True,2026-02-05,2026-02-06
+241,PDV000241,DermaPoint Centro 241,Calle 10 Nº 49,Murcia,Localidad 76,46624,37.671027,-6.667997,True,2020-06-04,2026-09-07
+242,PDV000242,Vitalia Farma Estación 242,Calle 2 Nº 55,"Rioja, La",Localidad 25,17688,41.75097,0.204567,True,2024-08-22,2026-09-07
+243,PDV000243,Parafarma Look Plaza 243,Calle 51 Nº 62,"Balears, Illes",Localidad 71,31077,41.971457,-4.503662,True,2020-06-04,2026-09-07
+244,PDV000244,FarmaCentral Mercado 244,Calle 40 Nº 67,Cáceres,Localidad 47,43607,42.797652,-3.428349,True,2020-06-04,2026-09-07
+245,PDV000245,Herbolario Natura Mercado 245,Calle 27 Nº 95,Madrid,Localidad 41,37127,36.352009,1.587469,True,2024-11-20,2025-10-13
+246,PDV000246,BioPharma Plus Centro 246,Calle 34 Nº 142,"Balears, Illes",Localidad 75,47954,41.544092,-5.580577,True,2024-11-20,2026-05-29
+247,PDV000247,Parafarma Look Mercado 247,Calle 30 Nº 98,"Coruña, A",Localidad 73,26104,39.844621,-1.05194,False,2025-11-05,2025-11-27
+248,PDV000248,Vitalia Farma Estación 248,Calle 93 Nº 126,Asturias,Localidad 59,21025,41.642346,-4.86258,True,2026-06-03,2026-06-04
+249,PDV000249,BioPharma Plus Avenida 249,Calle 24 Nº 139,Madrid,Localidad 8,44337,36.260443,1.368387,False,2025-11-05,2025-11-27
+250,PDV000250,FarmaVida Centro 250,Calle 18 Nº 60,Girona,Localidad 9,19897,36.070389,-2.927765,True,2026-09-04,2026-09-05
+251,PDV000251,Vitalia Farma Centro 251,Calle 82 Nº 124,Toledo,Localidad 63,11030,36.050915,-2.349291,True,2026-09-02,2026-09-03
+252,PDV000252,FarmaVida Centro 252,Calle 68 Nº 71,Madrid,Localidad 69,28788,36.131998,0.945781,False,2025-11-05,2025-11-27
+253,PDV000253,MediPlus Sur 253,Calle 14 Nº 25,Madrid,Localidad 68,19758,37.85546,-1.490761,True,2022-10-20,2024-12-31
+254,PDV000254,SaludExpress Mercado 254,Calle 35 Nº 102,Alicante/Alacant,Localidad 11,34448,43.386593,-3.516628,False,2025-11-05,2025-11-27
+255,PDV000255,Parafarma Look Plaza 255,Calle 39 Nº 21,Málaga,Localidad 5,16127,39.120643,-4.547663,False,2025-11-05,2025-11-27
+256,PDV000256,Herbolario Natura Centro 256,Calle 82 Nº 3,Valencia/València,Localidad 22,15418,39.84891,-3.832738,True,2024-08-08,2026-07-02
+257,PDV000257,Vitalia Farma Norte 257,Calle 68 Nº 11,Lleida,Localidad 30,23855,42.939802,-0.577175,True,2022-05-09,2026-06-16
+258,PDV000258,DermaPoint Avenida 258,Calle 35 Nº 12,Madrid,Localidad 10,28374,42.9247,-2.199776,False,2026-01-02,2026-09-07
+259,PDV000259,FarmaVida Sur 259,Calle 41 Nº 5,Cádiz,Localidad 27,48471,37.110275,1.040703,True,2020-06-04,2026-09-07
+260,PDV000260,MediPlus Norte 260,Calle 39 Nº 42,Pontevedra,Localidad 73,25759,40.363559,1.402975,True,2020-06-04,2026-09-07
+261,PDV000261,FarmaCentral Mercado 261,Calle 50 Nº 36,Barcelona,Localidad 11,42819,41.740016,-4.94217,True,2021-11-03,2025-10-13
+262,PDV000262,NutriSalud Bulevar 262,Calle 30 Nº 20,Madrid,Localidad 44,49660,41.921344,2.731216,True,2024-09-27,2025-09-25
+263,PDV000263,MediPlus Mercado 263,Calle 4 Nº 70,Alicante/Alacant,Localidad 58,42152,37.756666,-2.331725,True,2024-11-20,2025-10-13
+264,PDV000264,MediPlus Bulevar 264,Calle 24 Nº 150,Madrid,Localidad 49,15616,41.945689,-5.578219,False,2026-01-02,2026-09-07
+265,PDV000265,Parafarma Look Norte 265,Calle 11 Nº 69,Valencia/València,Localidad 20,34903,41.479914,-1.312849,False,2026-01-02,2026-09-07
+266,PDV000266,MediPlus Mercado 266,Calle 47 Nº 28,Navarra,Localidad 12,10340,43.260794,-3.696328,True,2020-06-04,2026-09-07
+267,PDV000267,SaludExpress Norte 267,Calle 17 Nº 23,Madrid,Localidad 24,38244,39.456096,-2.310276,False,2026-01-02,2026-09-07
+268,PDV000268,MediPlus Norte 268,Calle 4 Nº 23,Madrid,Localidad 46,46321,36.716595,-1.764648,True,2020-06-04,2026-09-07
+269,PDV000269,Vitalia Farma Bulevar 269,Calle 2 Nº 75,Asturias,Localidad 53,35414,41.999602,-0.166968,True,2020-06-04,2026-09-07
+270,PDV000270,FarmaCentral Plaza 270,Calle 74 Nº 134,Valencia/València,Localidad 22,34951,37.305163,-5.911621,True,2020-06-04,2026-09-07
+271,PDV000271,SaludExpress Avenida 271,Calle 9 Nº 43,Zaragoza,Localidad 56,28085,39.242488,-3.198685,True,2026-02-03,2026-02-04
+272,PDV000272,NutriSalud Mercado 272,Calle 33 Nº 64,Huelva,Localidad 64,48915,40.74835,-3.530943,True,2025-12-09,2025-12-12
+273,PDV000273,BioPharma Plus Estación 273,Calle 1 Nº 102,Albacete,Localidad 43,50644,38.925153,1.563699,False,2025-11-05,2025-11-27
+274,PDV000274,Herbolario Natura Mercado 274,Calle 56 Nº 35,Zaragoza,Localidad 39,31015,40.644727,-0.539317,False,2025-03-05,2026-08-25
+275,PDV000275,Herbolario Natura Mercado 275,Calle 23 Nº 102,Madrid,Localidad 41,29100,41.658533,-1.325429,True,2023-04-27,2025-10-13
+276,PDV000276,DermaPoint Plaza 276,Calle 42 Nº 97,Sevilla,Localidad 36,35751,38.81062,2.444046,False,2025-11-05,2025-11-27
+277,PDV000277,Parafarma Look Sur 277,Calle 4 Nº 119,Granada,Localidad 27,38734,42.142179,1.174151,True,2026-03-26,2026-03-27
+278,PDV000278,NutriSalud Bulevar 278,Calle 18 Nº 78,Asturias,Localidad 31,26559,41.071705,-0.288021,True,2026-02-16,2026-02-17
+279,PDV000279,MediPlus Norte 279,Calle 58 Nº 123,Barcelona,Localidad 75,36267,40.114629,2.336047,True,2024-04-22,2025-11-04
+280,PDV000280,MediPlus Centro 280,Calle 47 Nº 138,Madrid,Localidad 77,51823,43.04089,-7.921945,False,2025-11-05,2025-11-27
+281,PDV000281,Parafarma Look Mercado 281,Calle 22 Nº 12,Málaga,Localidad 73,52272,41.216534,-4.264816,True,2024-11-20,2025-10-13
+282,PDV000282,Vitalia Farma Bulevar 282,Calle 14 Nº 3,Madrid,Localidad 13,26956,37.709408,0.110348,True,2022-10-20,2025-10-13
+283,PDV000283,FarmaCentral Plaza 283,Calle 58 Nº 96,Asturias,Localidad 51,40347,41.947035,-1.883767,True,2023-11-20,2026-07-22
+284,PDV000284,FarmaCentral Sur 284,Calle 45 Nº 7,Málaga,Localidad 62,16851,38.274828,2.298899,True,2020-06-04,2026-07-22
+285,PDV000285,NutriSalud Norte 285,Calle 94 Nº 37,Girona,Localidad 45,30440,38.641613,0.581802,True,2025-06-16,2025-10-13
+286,PDV000286,FarmaCentral Avenida 286,Calle 45 Nº 122,Sevilla,Localidad 13,38715,41.559353,-3.599165,False,2025-11-05,2025-11-27
+287,PDV000287,NutriSalud Estación 287,Calle 6 Nº 30,Barcelona,Localidad 3,32483,40.989368,-0.768044,False,2025-11-05,2025-11-27
+288,PDV000288,BioPharma Plus Plaza 288,Calle 67 Nº 45,León,Localidad 71,20494,38.54862,-3.927746,False,2025-11-05,2025-11-27
+289,PDV000289,Herbolario Natura Plaza 289,Calle 52 Nº 48,Asturias,Localidad 24,51974,41.061271,-4.315662,True,2020-06-04,2026-07-02
+290,PDV000290,DermaPoint Plaza 290,Calle 58 Nº 110,Valencia/València,Localidad 50,10291,41.426464,-6.707116,True,2024-08-08,2026-07-02
+291,PDV000291,NutriSalud Norte 291,Calle 69 Nº 48,Santa Cruz de Tenerife,Localidad 47,31363,37.517472,-7.864167,True,2024-11-20,2025-10-13
+292,PDV000292,Herbolario Natura Mercado 292,Calle 77 Nº 100,Málaga,Localidad 79,35725,40.519936,-4.91615,False,2025-11-05,2025-11-27
+293,PDV000293,Herbolario Natura Sur 293,Calle 79 Nº 22,Vizcaya,Localidad 18,30524,36.907535,-5.452212,True,2026-01-12,2026-01-13
+294,PDV000294,BioPharma Plus Mercado 294,Calle 89 Nº 37,Navarra,Localidad 66,35458,39.220441,-7.562872,True,2020-06-04,2026-09-07
+295,PDV000295,MediPlus Bulevar 295,Calle 24 Nº 125,León,Localidad 69,52287,43.166351,-7.117241,False,2026-01-02,2026-09-07
+296,PDV000296,BioPharma Plus Avenida 296,Calle 37 Nº 36,Barcelona,Localidad 24,30616,42.483286,-1.495434,True,2020-06-04,2026-09-07
+297,PDV000297,Vitalia Farma Centro 297,Calle 63 Nº 35,Burgos,Localidad 25,35162,43.421484,-2.931481,True,2020-06-04,2026-09-07
+298,PDV000298,Herbolario Natura Bulevar 298,Calle 88 Nº 126,Barcelona,Localidad 54,39088,39.762986,-8.25835,True,2020-06-04,2026-09-07
+299,PDV000299,FarmaVida Plaza 299,Calle 5 Nº 71,Vizcaya,Localidad 29,45232,38.222761,0.537326,True,2025-07-14,2025-10-24
+300,PDV000300,DermaPoint Avenida 300,Calle 71 Nº 131,Pontevedra,Localidad 15,47533,36.879391,0.466424,True,2022-10-20,2024-12-31
+301,PDV000301,Vitalia Farma Centro 301,Calle 98 Nº 113,Madrid,Localidad 70,24322,43.621273,-8.009553,False,2025-11-05,2025-11-27
+302,PDV000302,Parafarma Look Estación 302,Calle 5 Nº 116,"Balears, Illes",Localidad 34,32844,42.638937,-8.204014,True,2025-06-16,2025-10-13
+303,PDV000303,NutriSalud Plaza 303,Calle 27 Nº 90,Huelva,Localidad 79,51469,39.296886,-1.536495,False,2025-11-05,2025-11-27
+304,PDV000304,Parafarma Look Plaza 304,Calle 8 Nº 146,Alicante/Alacant,Localidad 45,44883,38.164355,-2.511516,True,2025-12-09,2025-12-12
+305,PDV000305,Vitalia Farma Estación 305,Calle 38 Nº 147,Bizkaia,Localidad 35,43712,43.58826,-0.740829,True,2022-10-20,2024-12-31
+306,PDV000306,NutriSalud Sur 306,Calle 97 Nº 106,Madrid,Localidad 8,28174,42.676266,-7.701209,False,2026-01-02,2026-09-07
+307,PDV000307,BioPharma Plus Plaza 307,Calle 19 Nº 83,Madrid,Localidad 32,35736,39.768832,-2.024438,True,2022-10-20,2024-12-31
+308,PDV000308,SaludExpress Bulevar 308,Calle 49 Nº 116,Araba/Álava,Localidad 10,51525,42.118409,0.387941,True,2024-11-20,2025-10-13
+309,PDV000309,MediPlus Estación 309,Calle 89 Nº 95,Asturias,Localidad 59,41984,38.520127,-9.268839,True,2023-11-20,2026-07-22
+310,PDV000310,NutriSalud Avenida 310,Calle 82 Nº 92,Cantabria,Localidad 9,45024,39.062412,2.89842,True,2023-11-20,2026-07-22
+311,PDV000311,Parafarma Look Avenida 311,Calle 35 Nº 83,Bizkaia,Localidad 37,32135,40.214291,-7.654512,True,2020-06-04,2026-09-07
+312,PDV000312,Herbolario Natura Mercado 312,Calle 88 Nº 13,Murcia,Localidad 6,16525,40.821582,1.242447,True,2020-06-04,2026-09-07
+313,PDV000313,FarmaVida Norte 313,Calle 21 Nº 113,Castellón/Castelló,Localidad 59,10044,43.637154,-3.909729,True,2023-05-24,2026-09-07
+314,PDV000314,BioPharma Plus Estación 314,Calle 21 Nº 71,Pontevedra,Localidad 12,52899,38.775352,-8.261501,True,2020-06-04,2026-09-07
+315,PDV000315,BioPharma Plus Centro 315,Calle 51 Nº 79,Cantabria,Localidad 30,38130,41.047236,-0.433405,True,2023-11-20,2026-07-22
+316,PDV000316,FarmaVida Plaza 316,Calle 62 Nº 20,Asturias,Localidad 17,48907,37.74167,-0.732218,True,2023-11-20,2026-07-22
+317,PDV000317,FarmaVida Centro 317,Calle 90 Nº 88,Madrid,Localidad 16,37676,41.344039,-3.280977,True,2020-06-04,2026-07-25
+318,PDV000318,Parafarma Look Bulevar 318,Calle 12 Nº 27,Madrid,Localidad 14,30535,38.830225,-5.529383,False,2025-11-05,2025-11-27
+319,PDV000319,MediPlus Sur 319,Calle 83 Nº 37,Badajoz,Localidad 9,44767,40.337342,-1.609978,False,2025-11-05,2025-11-27
+320,PDV000320,BioPharma Plus Avenida 320,Calle 45 Nº 55,Murcia,Localidad 20,36981,40.743785,-3.725963,True,2025-12-09,2025-12-12
+321,PDV000321,Parafarma Look Norte 321,Calle 13 Nº 36,Barcelona,Localidad 16,48638,41.62107,-4.870651,True,2025-12-09,2025-12-12
+322,PDV000322,MediPlus Mercado 322,Calle 18 Nº 64,Barcelona,Localidad 36,52245,36.648715,-2.327202,False,2026-01-02,2026-09-07
+323,PDV000323,DermaPoint Estación 323,Calle 89 Nº 7,Asturias,Localidad 39,23464,39.986668,-2.880016,True,2020-06-04,2026-09-07
+324,PDV000324,MediPlus Estación 324,Calle 83 Nº 14,Zaragoza,Localidad 31,42432,38.971319,-6.26237,False,2025-11-05,2025-11-27
+325,PDV000325,DermaPoint Norte 325,Calle 68 Nº 4,Madrid,Localidad 47,30740,37.016268,1.546256,True,2022-05-09,2025-11-04
+326,PDV000326,DermaPoint Bulevar 326,Calle 47 Nº 140,Valencia,Localidad 23,40868,43.349288,0.406625,True,2025-12-09,2026-01-16
+327,PDV000327,FarmaVida Norte 327,Calle 2 Nº 68,Navarra,Localidad 28,12610,43.103861,2.653368,True,2020-06-04,2026-09-07
+328,PDV000328,MediPlus Estación 328,Calle 81 Nº 129,Cádiz,Localidad 54,37759,41.403942,-8.26141,False,2025-11-05,2025-11-27
+329,PDV000329,FarmaCentral Sur 329,Calle 36 Nº 22,Madrid,Localidad 40,15178,39.937046,-6.739712,False,2025-11-05,2025-11-27
+330,PDV000330,BioPharma Plus Mercado 330,Calle 51 Nº 17,Girona,Localidad 40,38671,41.62068,1.365498,False,2025-11-05,2025-11-27
+331,PDV000331,FarmaVida Plaza 331,Calle 12 Nº 112,"Coruña, A",Localidad 15,39712,40.714685,-8.606639,False,2025-11-05,2025-11-27
+332,PDV000332,BioPharma Plus Norte 332,Calle 2 Nº 36,León,Localidad 2,20736,39.82238,-4.931515,False,2026-01-02,2026-09-07
+333,PDV000333,FarmaCentral Estación 333,Calle 22 Nº 96,Bizkaia,Localidad 17,27613,41.643606,-7.812485,True,2020-06-04,2026-09-07
+334,PDV000334,FarmaVida Mercado 334,Calle 55 Nº 70,Málaga,Localidad 68,14185,38.024712,2.985637,True,2020-06-04,2026-09-07
+335,PDV000335,NutriSalud Avenida 335,Calle 59 Nº 131,Barcelona,Localidad 47,13633,39.846997,-2.157235,True,2020-06-04,2026-09-07
+336,PDV000336,Vitalia Farma Sur 336,Calle 33 Nº 27,Pontevedra,Localidad 74,17558,37.758714,-2.888806,True,2022-10-20,2025-10-09
+337,PDV000337,FarmaVida Centro 337,Calle 32 Nº 12,Madrid,Localidad 61,33853,38.948942,-7.408933,False,2025-11-05,2025-11-27
+338,PDV000338,FarmaVida Bulevar 338,Calle 29 Nº 83,Valencia/València,Localidad 32,37279,43.052082,-5.268817,True,2025-06-16,2025-10-13
+339,PDV000339,NutriSalud Mercado 339,Calle 16 Nº 129,Ciudad Real,Localidad 7,21753,37.718525,-2.801246,True,2022-05-09,2025-11-04
+340,PDV000340,FarmaVida Bulevar 340,Calle 60 Nº 73,Valencia,Localidad 40,31449,36.665169,-3.544998,True,2026-03-18,2026-03-19
+341,PDV000341,Vitalia Farma Plaza 341,Calle 38 Nº 145,Toledo,Localidad 39,50810,37.867897,-4.659752,False,2025-11-05,2025-11-27
+342,PDV000342,Herbolario Natura Plaza 342,Calle 94 Nº 140,Jaén,Localidad 32,19867,36.04911,-4.133545,True,2020-06-04,2026-07-22
+343,PDV000343,Parafarma Look Mercado 343,Calle 82 Nº 3,Málaga,Localidad 43,10095,41.843754,-4.558937,True,2020-06-04,2026-07-22
+344,PDV000344,SaludExpress Norte 344,Calle 68 Nº 61,Murcia,Localidad 54,42245,43.401125,2.954246,True,2026-06-16,2026-06-17
+345,PDV000345,BioPharma Plus Estación 345,Calle 6 Nº 60,Valencia,Localidad 67,37070,41.396521,-4.606601,True,2026-06-16,2026-06-17
+346,PDV000346,NutriSalud Norte 346,Calle 65 Nº 35,"Coruña, A",Localidad 51,14904,40.557597,-8.515236,False,2021-11-03,2025-10-13
+347,PDV000347,BioPharma Plus Plaza 347,Calle 38 Nº 67,León,Localidad 41,35752,41.395587,-0.034554,True,2026-03-03,2026-03-03
+348,PDV000348,Vitalia Farma Avenida 348,Calle 35 Nº 60,Barcelona,Localidad 10,23284,37.048061,0.403847,False,2025-03-05,2026-08-25
+349,PDV000349,NutriSalud Sur 349,Calle 14 Nº 43,Bizkaia,Localidad 58,40543,38.418056,-7.778717,False,2025-03-05,2026-08-25
+350,PDV000350,Vitalia Farma Plaza 350,Calle 58 Nº 79,Cádiz,Localidad 60,27367,42.564113,-8.160697,False,2025-11-05,2025-11-27
+351,PDV000351,SaludExpress Centro 351,Calle 28 Nº 84,Valladolid,Localidad 19,15977,41.475912,2.90184,True,2020-06-04,2026-09-07
+352,PDV000352,MediPlus Centro 352,Calle 87 Nº 77,Valladolid,Localidad 34,21394,36.239332,-4.204658,True,2020-06-04,2026-09-07
+353,PDV000353,Herbolario Natura Plaza 353,Calle 13 Nº 119,Gipuzkoa,Localidad 14,19161,36.93519,-8.522968,True,2020-06-04,2026-09-07
+354,PDV000354,Parafarma Look Sur 354,Calle 26 Nº 103,Zaragoza,Localidad 48,51307,43.219327,-8.241103,True,2026-05-22,2026-07-02
+355,PDV000355,DermaPoint Estación 355,Calle 10 Nº 6,Zaragoza,Localidad 9,22959,42.94922,-3.712765,True,2026-05-22,2026-07-02
+356,PDV000356,BioPharma Plus Norte 356,Calle 43 Nº 32,Zaragoza,Localidad 6,40211,36.38991,2.34406,True,2026-05-22,2026-07-02
+357,PDV000357,MediPlus Bulevar 357,Calle 64 Nº 8,Guadalajara,Localidad 49,37961,37.330616,-6.594577,False,2025-11-05,2025-11-27
+358,PDV000358,BioPharma Plus Estación 358,Calle 36 Nº 115,ASTURIAS,Localidad 20,12270,40.728621,-1.526088,False,2021-11-03,2025-10-13
+359,PDV000359,SaludExpress Avenida 359,Calle 53 Nº 141,Tarragona,Localidad 62,13996,36.675456,-4.474008,False,2025-11-05,2025-11-27
+360,PDV000360,MediPlus Plaza 360,Calle 83 Nº 135,"Balears, Illes",Localidad 32,51337,43.654472,-2.449926,True,2020-06-04,2026-09-07
+361,PDV000361,FarmaVida Bulevar 361,Calle 92 Nº 92,"Palmas, Las",Localidad 62,45685,42.01705,-4.96517,True,2025-06-16,2025-10-13
+362,PDV000362,DermaPoint Mercado 362,Calle 50 Nº 70,Sevilla,Localidad 24,11708,38.455357,-6.540346,True,2020-06-04,2026-09-07
+363,PDV000363,SaludExpress Centro 363,Calle 61 Nº 136,Madrid,Localidad 46,48272,43.696964,2.972146,True,2022-10-20,2024-12-31
+364,PDV000364,NutriSalud Plaza 364,Calle 85 Nº 62,Madrid,Localidad 35,44975,42.285396,2.257469,False,2025-11-05,2025-11-27
+365,PDV000365,FarmaVida Plaza 365,Calle 74 Nº 100,"Coruña, A",Localidad 46,21384,37.355973,-1.834254,True,2024-11-20,2025-10-13
