@@ -1,0 +1,46 @@
+employee_id,employee_first_name,employee_active_status,employee_address_province,employee_contract_type,created_at
+1,Feliciana,False,Barcelona,FIJO,2023-11-07
+2,Dani,False,BARCELONA,EV90,2020-12-02
+3,Amador,False,Alicante/Alacant,EV90,2020-12-02
+4,Manuela,False,"Coruña, A",OBRA,2020-12-02
+5,Leonardo,True,Málaga,EV180,2026-06-19
+6,Jose Ignacio,False,Alicante/Alacant,EV90,2020-12-02
+7,Jacinto,True,Cantabria,INDF,2026-06-08
+8,Emilio,True,Madrid,INDF,2026-08-19
+9,Maite,True,"Palmas, Las",INDF,2026-07-17
+10,Cristian,False,Málaga,EV90,2020-12-02
+11,Inmaculada,False,Castellón/Castelló,EV90,2020-12-02
+12,Manu,False,Madrid,EV90,2021-07-12
+13,Tecla,False,VALENCIA/VALÈNCIA,EV90,2020-12-02
+14,Caridad,True,Guadalajara,FIJO,2026-06-19
+15,Chucho,False,Bizkaia,EV90,2020-12-02
+16,Dominga,False,Las Palmas,EV90,2020-12-02
+17,Telmo,False,Barcelona,EV90,2020-12-02
+18,Amílcar,False,Madrid,EV90,2020-12-02
+19,Amor,False,Cantabria,EV90,2020-12-02
+20,Ciro,False,OURENSE,FIJO,2020-12-02
+21,Isaías,False,Asturias,EV90,2020-12-02
+22,Joan,True,Barcelona,INDF,2026-08-19
+23,Anselma,True,Barcelona,FIJO,2021-10-14
+24,Eligia,True,Madrid,FIJO,2023-05-22
+25,Amando,True,GIRONA,FIJO,2026-06-08
+26,Chelo,False,Lleida,EV90,2020-12-02
+27,Heliodoro,False,Barcelona,EV90,2020-12-02
+28,Lilia,False,Madrid,EV90,2020-12-02
+29,Florentina,False,MALAGA,EV90,2021-09-03
+30,Judith,True,Barcelona,INDF,2026-06-19
+31,Caridad,False,NAVARRA,EV90,2020-12-02
+32,Simón,True,Cádiz,,2026-05-18
+33,Isidro,True,TOLEDO,FIJO,2026-08-07
+34,Vidal,True,Cáceres,FIJO,2026-09-04
+35,Dolores,False,Pontevedra,EV90,2020-12-02
+36,Leopoldo,False,GUADALAJARA,EV90,2020-12-02
+37,Nydia,False,Valencia/València,EV90,2020-12-02
+38,Ruth,False,Valencia/València,OBRA,2020-12-02
+39,Adolfo,False,Guadalajara,FIJO,2023-02-08
+40,Martina,True,Valencia/València,INDF,2026-08-19
+41,Noelia,False,Málaga,EV90,2021-09-10
+42,Feliciano,False,Valencia/València,EV90,2020-12-02
+43,José,False,Navarra,INDF,2024-01-19
+44,Telmo,False,Madrid,EV90,2020-12-02
+45,Noé,False,Salamanca,EV90,2020-12-02

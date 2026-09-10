@@ -1,0 +1,246 @@
+ext_id,point_name,address_street,address_number,address_city,address_zip,is_active
+GI-090109,SaludExpress Plaza 34 S.L.,Calle 16,50,Localidad 41,17835,False
+GI-090023,FarmaVida Estación 3 S.L.,Calle 37,54,Localidad 56,48009,True
+GI-090077,FarmaVida Centro 317,Calle 90,88,Localidad 16,37676,True
+GI-090233,BioPharma Plus Plaza 239,Calle,101,Poblacion 70,29331,True
+GI-090084,Parafarma  Look  Norte  92,Calle 59,24,Localidad 28,52053,False
+GI-090179,NutriSalud Norte 285,Calle 94,37,Localidad 45,30440,True
+GI-090059,Herbolario Natura Centro 256,Calle 82,3,Localidad 22,15417,True
+GI-090031,Herbolario Natura Estación 83,Calle 96,87,Localidad 15,40692,True
+GI-090128,Herbolario Natura Norte 45,Calle 88,60,Localidad 34,50963,False
+GI-090224,Parafarma Look Bulevar 955,Calle,27,Poblacion 27,45242,True
+GI-090070,BIOPHARMA PLUS NORTE 5,Calle 37,132,Localidad 80,31966,False
+GI-090014,Vitalia  Farma  Bulevar  33,Calle 96,141,Localidad 43,33056,True
+GI-090049,FarmaCentral Avenida 196 S.L.,Calle 39,122,Localidad 3,34139,True
+GI-090190,Herbolario  Natura  Mercado  161,Calle 58,11,Localidad 46,50294,False
+GI-090171,Parafarma  Look  Centro  234,Calle 18,129,Localidad 38,25347,True
+GI-090181,HERBOLARIO NATURA ESTACIÓN 75,Calle 87,140,Localidad 21,14840,False
+GI-090141,DermaPoint Plaza 276 S.L.,Calle 42,97,Localidad 36,35751,False
+GI-090026,FarmaVida Mercado 65,Calle 96,122,Localidad 49,35302,True
+GI-090144,NUTRISALUD CENTRO 232,Calle 85,108,Localidad 79,11025,True
+GI-090143,SaludExpress Norte 267 S.L.,Calle 17,23,Localidad 24,38244,False
+GI-090203,SaludExpress Plaza 871,Calle,139,Poblacion 5,33506,True
+GI-090108,Herbolario Natura Sur 221,Calle 59,96,Localidad 54,45994,True
+GI-090172,PARAFARMA LOOK CENTRO 209,Calle 13,106,Localidad 43,40959,False
+GI-090048,MEDIPLUS PLAZA 117,Calle 65,144,Localidad 46,14722,False
+GI-090029,DermaPoint  Bulevar  127,Calle 60,149,Localidad 71,12688,False
+GI-090106,FarmaCentral Avenida 238,Calle 31,58,Localidad 39,19460,True
+GI-090080,Herbolario  Natura  Estación  218,Calle 43,78,Localidad 75,47545,True
+GI-090004,Parafarma Look Mercado 281,Calle 22,12,Localidad 73,52272,True
+GI-090238,BioPharma Plus Sur 326,Calle,65,Poblacion 25,17511,True
+GI-090042,MediPlus Mercado 266,Calle 47,28,Localidad 12,10340,True
+GI-090211,BioPharma Plus Sur 698,Calle,66,Poblacion 1,31663,True
+GI-090082,Parafarma Look Norte 321 S.L.,Calle 13,36,Localidad 16,48638,True
+GI-090073,MediPlus Norte 103 S.L.,Calle 41,110,Localidad 41,26704,True
+GI-090189,Herbolario Natura Avenida 154 S.L.,Calle 81,47,Localidad 18,14135,True
+GI-090013,FarmaVida  Norte  313,Calle 21,113,Localidad 59,10045,True
+GI-090002,MEDIPLUS CENTRO 118,Calle 59,20,Localidad 41,47733,False
+GI-090007,NutriSalud Bulevar 262,Calle 30,20,Localidad 44,49659,True
+GI-090009,Vitalia Farma Norte 227,Calle 70,16,Localidad 9,40937,False
+GI-090056,Herbolario Natura Sur 293,Calle 79,22,Localidad 18,30524,True
+GI-090025,VITALIA FARMA MERCADO 235,Calle 31,78,Localidad 19,44160,False
+GI-090063,NutriSalud Mercado 272,Calle 33,64,Localidad 64,48915,True
+GI-090222,Parafarma Look Mercado 626,Calle,22,Poblacion 13,20970,True
+GI-090191,BIOPHARMA PLUS NORTE 208,Calle 79,62,Localidad 32,13326,True
+GI-090157,NutriSalud Mercado 160,Calle 85,76,Localidad 40,39223,True
+GI-090242,Parafarma Look Norte 391,Calle,18,Poblacion 25,30826,True
+GI-090064,FARMAVIDA CENTRO 337,Calle 32,12,Localidad 61,33854,False
+GI-090044,MEDIPLUS BULEVAR 264,Calle 24,150,Localidad 49,15616,False
+GI-090110,Parafarma Look Sur 277 S.L.,Calle 4,119,Localidad 27,38733,True
+GI-090069,MediPlus Norte 260 S.L.,Calle 39,42,Localidad 73,25760,True
+GI-090098,SaludExpress Norte 36 S.L.,Calle 25,76,Localidad 30,33651,True
+GI-090033,SALUDEXPRESS CENTRO 351,Calle 28,84,Localidad 19,15977,True
+GI-090183,Vitalia Farma Estación 242,Calle 2,55,Localidad 25,17688,True
+GI-090040,NutriSalud Norte 346 S.L.,Calle 65,35,Localidad 51,14904,False
+GI-090207,FarmaVida Estación 307,Calle,114,Poblacion 29,51535,True
+GI-090050,DermaPoint Centro 233,Calle 58,13,Localidad 32,12899,False
+GI-090185,DERMAPOINT NORTE 7,Calle 54,148,Localidad 25,35164,True
+GI-090167,MediPlus  Estación  48,Calle 65,139,Localidad 64,38688,False
+GI-090219,DermaPoint Plaza 140,Calle,83,Poblacion 49,17430,True
+GI-090118,Herbolario Natura Plaza 342,Calle 94,140,Localidad 32,19867,True
+GI-090195,DermaPoint  Norte  325,Calle 68,4,Localidad 47,30740,True
+GI-090177,FarmaVida  Avenida  79,Calle 37,59,Localidad 78,33089,False
+GI-090103,DERMAPOINT CENTRO 50,Calle 98,69,Localidad 74,12635,True
+GI-090204,Herbolario Natura Norte 730,Calle,144,Poblacion 29,52409,True
+GI-090107,HERBOLARIO NATURA BULEVAR 298,Calle 88,126,Localidad 54,39088,True
+GI-090096,DermaPoint Centro 146,Calle 11,5,Localidad 33,24133,True
+GI-090061,FARMAVIDA ESTACIÓN 62,Calle 93,77,Localidad 76,48005,False
+GI-090136,Vitalia  Farma  Sur  206,Calle 38,11,Localidad 37,15179,False
+GI-090127,DermaPoint Sur 137 S.L.,Calle 77,97,Localidad 20,20633,True
+GI-090148,FarmaVida Sur 210,Calle 53,122,Localidad 62,52633,False
+GI-090037,FarmaVida Bulevar 340 S.L.,Calle 60,73,Localidad 40,31449,True
+GI-090090,BioPharma  Plus  Avenida  296,Calle 37,36,Localidad 24,30616,True
+GI-090052,SALUDEXPRESS AVENIDA 182,Calle 10,16,Localidad 21,38809,True
+GI-090200,FarmaVida Sur 236 S.L.,Calle 81,110,Localidad 72,42480,True
+GI-090112,DermaPoint Avenida 258 S.L.,Calle 35,12,Localidad 10,28374,False
+GI-090034,MediPlus  Norte  268,Calle 4,23,Localidad 46,46320,True
+GI-090120,BioPharma Plus Avenida 249,Calle 24,139,Localidad 8,44337,False
+GI-090209,BioPharma Plus Norte 291,Calle,45,Poblacion 66,17821,True
+GI-090019,Vitalia Farma Plaza 64 S.L.,Calle 90,62,Localidad 74,35098,False
+GI-090086,Parafarma Look Plaza 222 S.L.,Calle 88,21,Localidad 68,39278,True
+GI-090088,SALUDEXPRESS CENTRO 226,Calle 51,66,Localidad 1,24280,True
+GI-090150,SaludExpress  Mercado  22,Calle 22,30,Localidad 21,30385,True
+GI-090081,MediPlus  Estación  197,Calle 93,7,Localidad 77,41102,False
+GI-090122,NutriSalud Sur 306 S.L.,Calle 97,106,Localidad 8,28174,False
+GI-090193,SALUDEXPRESS BULEVAR 23,Calle 51,51,Localidad 10,48803,True
+GI-090223,FarmaCentral Centro 741,Calle,17,Poblacion 27,51255,True
+GI-090074,SaludExpress Centro 109,Calle 24,70,Localidad 40,32270,False
+GI-090160,MediPlus Centro 280 S.L.,Calle 47,138,Localidad 77,51823,False
+GI-090006,FarmaCentral Sur 284,Calle 45,7,Localidad 62,16851,True
+GI-090032,SaludExpress Centro 78 S.L.,Calle 85,102,Localidad 36,10530,False
+GI-090180,FarmaVida  Sur  21,Calle 31,33,Localidad 61,17495,True
+GI-090155,FarmaCentral  Bulevar  69,Calle 41,125,Localidad 70,12352,False
+GI-090116,SaludExpress Avenida 271,Calle 9,43,Localidad 56,28085,True
+GI-090111,HERBOLARIO NATURA PLAZA 107,Calle 14,90,Localidad 72,34087,True
+GI-090076,HERBOLARIO NATURA MERCADO 275,Calle 23,102,Localidad 41,29100,True
+GI-090146,NutriSalud Avenida 59,Calle 16,40,Localidad 64,29128,True
+GI-090196,FarmaVida  Mercado  93,Calle 32,33,Localidad 73,23448,True
+GI-090099,FarmaCentral Bulevar 239,Calle 54,143,Localidad 68,18787,False
+GI-090087,MediPlus Mercado 237 S.L.,Calle 90,107,Localidad 53,19779,True
+GI-090178,SaludExpress  Estación  30,Calle 72,3,Localidad 67,22521,True
+GI-090015,MediPlus  Norte  143,Calle 29,116,Localidad 45,11747,True
+GI-090153,Herbolario Natura Centro 16,Calle 50,87,Localidad 52,20816,False
+GI-090175,NutriSalud Bulevar 121 S.L.,Calle 40,87,Localidad 29,31827,True
+GI-090054,Herbolario Natura Sur 18,Calle 7,67,Localidad 49,31453,False
+GI-090214,NutriSalud Mercado 638,Calle,57,Poblacion 24,44118,True
+GI-090240,FarmaCentral Norte 397,Calle,18,Poblacion 33,16435,True
+GI-090016,MEDIPLUS ESTACIÓN 119,Calle 15,104,Localidad 3,31284,True
+GI-090105,MediPlus  Sur  133,Calle 91,22,Localidad 40,46629,True
+GI-090165,DERMAPOINT CENTRO 98,Calle 94,134,Localidad 39,40018,True
+GI-090126,NutriSalud  Avenida  174,Calle 60,133,Localidad 45,18410,True
+GI-090047,Parafarma  Look  Bulevar  32,Calle 89,63,Localidad 40,48112,True
+GI-090226,Vitalia Farma Centro 189,Calle,19,Poblacion 7,21664,True
+GI-090184,NutriSalud  Sur  349,Calle 14,43,Localidad 58,40543,False
+GI-090137,DermaPoint  Avenida  148,Calle 9,29,Localidad 64,49107,True
+GI-090230,DermaPoint Norte 874,Calle,150,Poblacion 6,14757,True
+GI-090173,SaludExpress  Norte  191,Calle 65,116,Localidad 71,28332,True
+GI-090147,MediPlus Centro 106,Calle 37,80,Localidad 46,16789,False
+GI-090066,Parafarma Look Norte 265,Calle 11,69,Localidad 20,34903,False
+GI-090202,SaludExpress Sur 393,Calle,65,Poblacion 19,14065,True
+GI-090030,DermaPoint  Norte  223,Calle 8,141,Localidad 65,23248,True
+GI-090022,HERBOLARIO NATURA BULEVAR 10,Calle 71,115,Localidad 21,41108,False
+GI-090163,NutriSalud  Estación  167,Calle 34,115,Localidad 28,50099,False
+GI-090018,FARMAVIDA MERCADO 152,Calle 9,89,Localidad 31,51173,False
+GI-090113,BioPharma Plus Estación 314,Calle 21,71,Localidad 12,52899,True
+GI-090135,FarmaCentral  Mercado  261,Calle 50,36,Localidad 11,42819,True
+GI-090001,Herbolario Natura Bulevar 99 S.L.,Calle 55,28,Localidad 63,39069,True
+GI-090078,FARMACENTRAL SUR 37,Calle 6,14,Localidad 71,29145,True
+GI-090114,Vitalia  Farma  Centro  297,Calle 63,35,Localidad 25,35162,True
+GI-090228,MediPlus Avenida 745,Calle,104,Poblacion 56,30735,True
+GI-090210,MediPlus Centro 538,Calle,72,Poblacion 72,27317,True
+GI-090089,DermaPoint  Mercado  362,Calle 50,70,Localidad 24,11708,True
+GI-090091,VITALIA FARMA NORTE 240,Calle 48,24,Localidad 69,22483,True
+GI-090206,MediPlus Bulevar 526,Calle,81,Poblacion 71,13525,True
+GI-090192,Herbolario  Natura  Mercado  312,Calle 88,13,Localidad 6,16525,True
+GI-090198,FarmaCentral  Avenida  286,Calle 45,122,Localidad 13,38715,False
+GI-090065,DermaPoint Avenida 300,Calle 71,131,Localidad 15,47533,True
+GI-090154,Vitalia Farma Sur 145,Calle 5,74,Localidad 61,19095,True
+GI-090213,FarmaVida Estación 602,Calle,147,Poblacion 71,33467,True
+GI-090182,FarmaCentral  Plaza  283,Calle 58,96,Localidad 51,40347,True
+GI-090201,FarmaVida Bulevar 248,Calle,14,Poblacion 8,23100,True
+GI-090097,Parafarma Look Mercado 247,Calle 30,98,Localidad 73,26104,False
+GI-090229,FarmaVida Bulevar 789,Calle,31,Poblacion 69,10386,True
+GI-090234,BioPharma Plus Estación 793,Calle,96,Poblacion 2,46275,True
+GI-090159,Parafarma  Look  Mercado  343,Calle 82,3,Localidad 43,10095,True
+GI-090071,NUTRISALUD MERCADO 169,Calle 86,89,Localidad 9,46044,True
+GI-090134,NutriSalud Sur 176 S.L.,Calle 39,43,Localidad 21,31145,True
+GI-090027,HERBOLARIO NATURA MERCADO 292,Calle 77,100,Localidad 79,35725,False
+GI-090083,DermaPoint Centro 241,Calle 10,49,Localidad 76,46624,True
+GI-090227,SaludExpress Norte 688,Calle,59,Poblacion 34,36714,True
+GI-090012,FarmaVida Mercado 131 S.L.,Calle 43,25,Localidad 72,35332,True
+GI-090117,Parafarma Look Plaza 243 S.L.,Calle 51,62,Localidad 71,31077,True
+GI-090205,FarmaCentral Bulevar 343,Calle,131,Poblacion 37,13078,True
+GI-090100,NutriSalud Avenida 71 S.L.,Calle 22,77,Localidad 4,13014,True
+GI-090244,DermaPoint Mercado 927,Calle,81,Poblacion 55,21051,True
+GI-090133,Vitalia Farma Centro 251,Calle 82,124,Localidad 63,11030,True
+GI-090053,Parafarma Look Avenida 171 S.L.,Calle 4,93,Localidad 71,47504,False
+GI-090164,FarmaVida Plaza 316 S.L.,Calle 62,20,Localidad 17,48907,True
+GI-090239,BioPharma Plus Centro 971,Calle,141,Poblacion 60,52249,True
+GI-090095,Parafarma Look Bulevar 2 S.L.,Calle 86,98,Localidad 23,50338,True
+GI-090218,FarmaVida Norte 784,Calle,89,Poblacion 58,25751,True
+GI-090017,DermaPoint Mercado 195,Calle 21,101,Localidad 79,29610,True
+GI-090060,SaludExpress Estación 125 S.L.,Calle 76,15,Localidad 46,43248,True
+GI-090232,SaludExpress Avenida 490,Calle,102,Poblacion 4,41063,True
+GI-090057,Herbolario  Natura  Avenida  4,Calle 87,55,Localidad 66,41009,True
+GI-090011,FarmaVida Avenida 200 S.L.,Calle 41,108,Localidad 20,37062,True
+GI-090235,FarmaCentral Sur 226,Calle,11,Poblacion 1,47533,True
+GI-090124,NutriSalud Estación 28,Calle 58,63,Localidad 60,47345,True
+GI-090038,DERMAPOINT ESTACIÓN 355,Calle 10,6,Localidad 9,22959,True
+GI-090169,Herbolario Natura Avenida 140,Calle 99,73,Localidad 49,42958,False
+GI-090145,SaludExpress  Centro  213,Calle 2,77,Localidad 73,49503,False
+GI-090046,Parafarma Look Mercado 96,Calle 23,68,Localidad 7,18307,True
+GI-090041,SaludExpress  Plaza  216,Calle 23,104,Localidad 55,43769,True
+GI-090236,DermaPoint Bulevar 650,Calle,141,Poblacion 11,29968,True
+GI-090221,Vitalia Farma Avenida 598,Calle,12,Poblacion 38,52698,True
+GI-090132,Vitalia  Farma  Norte  129,Calle 65,45,Localidad 6,26236,True
+GI-090043,DermaPoint Plaza 149,Calle 92,37,Localidad 38,38130,False
+GI-090176,NUTRISALUD PLAZA 102,Calle 56,116,Localidad 30,37119,False
+GI-090158,BioPharma Plus Estación 345 S.L.,Calle 6,60,Localidad 67,37070,True
+GI-090062,DermaPoint  Bulevar  326,Calle 47,140,Localidad 23,40868,True
+GI-090170,Vitalia Farma Mercado 165 S.L.,Calle 57,20,Localidad 74,19023,True
+GI-090003,BioPharma Plus Avenida 320 S.L.,Calle 45,55,Localidad 20,36981,True
+GI-090186,SaludExpress Estación 204 S.L.,Calle 91,54,Localidad 63,30777,False
+GI-090194,BioPharma Plus Bulevar 110,Calle 9,37,Localidad 4,16014,True
+GI-090102,Vitalia Farma Mercado 72,Calle 56,38,Localidad 32,44810,False
+GI-090024,VITALIA FARMA ESTACIÓN 157,Calle 16,95,Localidad 56,36215,True
+GI-090131,DermaPoint Estación 323 S.L.,Calle 89,7,Localidad 39,23464,True
+GI-090129,FARMAVIDA NORTE 162,Calle 86,104,Localidad 47,43625,False
+GI-090237,Parafarma Look Mercado 316,Calle,106,Poblacion 66,19335,True
+GI-090243,Herbolario Natura Avenida 436,Calle,79,Poblacion 75,19987,True
+GI-090075,NutriSalud Plaza 364,Calle 85,62,Localidad 35,44975,False
+GI-090217,Vitalia Farma Estación 323,Calle,136,Poblacion 61,46787,True
+GI-090151,BIOPHARMA PLUS MERCADO 186,Calle 74,81,Localidad 25,20442,True
+GI-090058,VITALIA FARMA PLAZA 144,Calle 50,21,Localidad 48,24715,True
+GI-090101,FARMACENTRAL AVENIDA 51,Calle 36,47,Localidad 75,38565,False
+GI-090094,VITALIA FARMA ESTACIÓN 305,Calle 38,147,Localidad 35,43711,True
+GI-090039,Parafarma  Look  Mercado  135,Calle 99,125,Localidad 25,24846,True
+GI-090168,DERMAPOINT SUR 100,Calle 9,33,Localidad 36,50914,True
+GI-090121,MEDIPLUS BULEVAR 295,Calle 24,125,Localidad 69,52287,False
+GI-090139,SaludExpress Avenida 214,Calle 68,127,Localidad 18,43044,True
+GI-090140,DERMAPOINT SUR 138,Calle 6,106,Localidad 47,25566,True
+GI-090067,VITALIA FARMA ESTACIÓN 211,Calle 83,16,Localidad 12,52748,True
+GI-090231,Vitalia Farma Norte 396,Calle,78,Poblacion 78,15669,True
+GI-090010,BioPharma  Plus  Plaza  347,Calle 38,67,Localidad 41,35752,True
+GI-090055,FarmaCentral Sur 130 S.L.,Calle 48,73,Localidad 50,36789,True
+GI-090152,FarmaVida Estación 39,Calle 62,30,Localidad 9,36260,False
+GI-090197,SaludExpress Norte 220,Calle 82,76,Localidad 48,50280,False
+GI-090104,Vitalia  Farma  Bulevar  190,Calle 6,103,Localidad 7,47374,True
+GI-090208,Vitalia Farma Plaza 894,Calle,50,Poblacion 38,39413,True
+GI-090149,FARMACENTRAL BULEVAR 89,Calle 76,40,Localidad 54,52920,True
+GI-090008,Herbolario Natura Bulevar 202 S.L.,Calle 41,45,Localidad 59,44938,False
+GI-090162,BIOPHARMA PLUS PLAZA 307,Calle 19,83,Localidad 32,35736,True
+GI-090130,FARMAVIDA PLAZA 331,Calle 12,112,Localidad 15,39712,False
+GI-090005,Herbolario  Natura  Estación  189,Calle 69,3,Localidad 14,38241,True
+GI-090215,NutriSalud Sur 525,Calle,140,Poblacion 69,36438,True
+GI-090187,FarmaVida Sur 259,Calle 41,5,Localidad 27,48472,True
+GI-090020,Herbolario  Natura  Mercado  274,Calle 56,35,Localidad 39,31016,False
+GI-090161,BIOPHARMA PLUS MERCADO 330,Calle 51,17,Localidad 40,38671,False
+GI-090241,Parafarma Look Avenida 438,Calle,92,Poblacion 17,52957,True
+GI-090068,PARAFARMA LOOK BULEVAR 318,Calle 12,27,Localidad 14,30535,False
+GI-090051,HERBOLARIO NATURA AVENIDA 60,Calle 32,117,Localidad 71,19478,True
+GI-090138,MEDIPLUS MERCADO 263,Calle 4,70,Localidad 58,42152,True
+GI-090036,FarmaCentral Bulevar 231 S.L.,Calle 30,64,Localidad 59,32685,False
+GI-090212,Herbolario Natura Sur 140,Calle,40,Poblacion 42,49117,True
+GI-090220,MediPlus Estación 653,Calle,73,Poblacion 4,43873,True
+GI-090072,BioPharma  Plus  Avenida  63,Calle 62,89,Localidad 43,46170,True
+GI-090245,FarmaVida Mercado 352,Calle,57,Poblacion 56,28132,True
+GI-090021,DermaPoint  Sur  74,Calle 60,66,Localidad 59,26733,True
+GI-090156,Parafarma Look Sur 58 S.L.,Calle 71,4,Localidad 71,36738,True
+GI-090166,BioPharma Plus Sur 95 S.L.,Calle 33,45,Localidad 15,11689,True
+GI-090045,SaludExpress Bulevar 308,Calle 49,116,Localidad 10,51525,True
+GI-090028,FARMAVIDA MERCADO 334,Calle 55,70,Localidad 68,14186,True
+GI-090142,BioPharma Plus Norte 134 S.L.,Calle 83,109,Localidad 66,33713,True
+GI-090125,DermaPoint Bulevar 150,Calle 24,22,Localidad 68,33632,False
+GI-090079,VITALIA FARMA ESTACIÓN 248,Calle 93,126,Localidad 59,21025,True
+GI-090199,FarmaVida Centro 126 S.L.,Calle 48,74,Localidad 10,52248,False
+GI-090092,MEDIPLUS MERCADO 322,Calle 18,64,Localidad 36,52245,False
+GI-090115,Parafarma Look Centro 219 S.L.,Calle 86,31,Localidad 60,30107,False
+GI-090119,FarmaCentral Centro 55,Calle 85,139,Localidad 60,37081,True
+GI-090123,Vitalia Farma Sur 336 S.L.,Calle 33,27,Localidad 74,17558,True
+GI-090225,MediPlus Norte 864,Calle,40,Poblacion 4,40095,True
+GI-090085,SaludExpress  Avenida  207,Calle 28,52,Localidad 69,27767,True
+GI-090188,BioPharma Plus Sur 123,Calle 98,20,Localidad 23,51153,True
+GI-090174,DermaPoint Bulevar 199 S.L.,Calle 19,63,Localidad 5,47523,True
+GI-090035,FarmaCentral  Estación  177,Calle 11,65,Localidad 26,51619,False
+GI-090093,SALUDEXPRESS SUR 80,Calle 81,25,Localidad 6,30246,False
+GI-090216,NutriSalud Mercado 326,Calle,55,Poblacion 43,31696,True

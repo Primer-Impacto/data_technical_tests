@@ -1,0 +1,12 @@
+project_id,client_code,project_name,created_at,updated_at
+1,CLI11,Lanzamiento de Producto Farma,2020-12-01,2021-04-16
+2,CLI10,Gestión de Punto de Venta Farma,2021-11-03,2021-11-03
+3,CLI01,Formación de Equipo Parafarmacia,2022-10-18,2022-10-18
+4,CLI04,Lanzamiento de Producto Salud,2023-04-05,2023-04-05
+5,CLI01,Lanzamiento de Producto Parafarmacia,2020-12-01,2020-12-01
+6,CLI12,Lanzamiento de Producto Retail,2022-01-04,2026-03-16
+7,CLI04,Control de Stock Salud,2020-12-01,2022-05-06
+8,CLI05,Auditoría de Lineal Parafarmacia,2020-12-01,2022-04-27
+9,CLI12,Gestión de Punto de Venta Consumo,2020-12-01,2022-06-28
+10,CLI05,Instalación de Expositor Parafarmacia,2020-12-22,2020-12-22
+11,CLI06,Formación de Equipo Farma,2025-11-19,2025-11-19
