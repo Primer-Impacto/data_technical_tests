@@ -1,7 +1,6 @@
--- EJEMPLO RESUELTO: comprobación de calidad escrita a mano.
--- dbt considera que el test FALLA si esta consulta devuelve alguna fila.
--- Aquí buscamos trabajadores dados de alta con una fecha posterior a hoy,
--- algo que no debería ocurrir y que suele indicar un error de carga.
+-- SOLVED EXAMPLE: a hand-written test.
+-- dbt marks the test as FAILED if this query returns any rows.
+-- A worker created after today usually points to a loading error.
 
 select
     employee_id,

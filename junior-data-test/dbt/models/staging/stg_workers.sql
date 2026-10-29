@@ -1,32 +1,29 @@
--- EJEMPLO RESUELTO: limpieza de la tabla de trabajadores.
--- Léelo con calma; en la parte 2 tendrás que aplicar las mismas ideas a las visitas.
+-- SOLVED EXAMPLE: cleaning the workers table.
+-- In Part 2 you will apply the same ideas to visits.
 
-with origen as (
+with source as (
 
     select * from {{ ref('raw_workers') }}
 
 ),
 
-limpieza as (
+cleaned as (
 
     select
-        cast(employee_id as integer)            as employee_id,
-        trim(employee_first_name)                as employee_first_name,
+        cast(employee_id as integer)                 as employee_id,
+        trim(employee_first_name)                    as employee_first_name,
         upper(trim(employee_active_status)) = 'TRUE' as is_active,
 
-        -- 1) Quitamos espacios, pasamos a mayúsculas y eliminamos tildes para
-        --    que "Málaga" y "MALAGA" se conviertan en el mismo valor.
-        -- 2) Nos quedamos con la parte anterior a la barra en los nombres
-        --    bilingües: "Valencia/València" pasa a ser "VALENCIA".
-        strip_accents(upper(trim(split_part(employee_address_province, '/', 1)))) as provincia_tmp,
+        -- Trim, upper-case and remove accents so "Málaga" and "MALAGA" match,
+        -- and keep only the first name of bilingual values ("Valencia/València").
+        strip_accents(upper(trim(split_part(employee_address_province, '/', 1)))) as province_raw,
 
-        -- Si el tipo de contrato viene vacío no lo inventamos: lo marcamos
-        -- explícitamente como DESCONOCIDO para que se vea en los informes.
-        coalesce(nullif(upper(trim(employee_contract_type)), ''), 'DESCONOCIDO') as contract_type,
+        -- A missing contract type is not guessed: it is flagged as UNKNOWN.
+        coalesce(nullif(upper(trim(employee_contract_type)), ''), 'UNKNOWN') as contract_type,
 
-        cast(created_at as date)                 as created_at
+        cast(created_at as date)                     as created_at
 
-    from origen
+    from source
 
 )
 
@@ -35,16 +32,15 @@ select
     employee_first_name,
     is_active,
 
-    -- 3) Algunos nombres llegan "dados la vuelta" ("Coruña, A"). Los
-    --    reordenamos para que coincidan con la forma habitual.
+    -- Some names arrive reversed ("Coruña, A"), so we put them in their usual order.
     case
-        when provincia_tmp = 'CORUNA, A'  then 'A CORUNA'
-        when provincia_tmp = 'PALMAS, LAS' then 'LAS PALMAS'
-        when provincia_tmp is null or provincia_tmp = '' then 'DESCONOCIDA'
-        else provincia_tmp
+        when province_raw = 'CORUNA, A'   then 'A CORUNA'
+        when province_raw = 'PALMAS, LAS' then 'LAS PALMAS'
+        when province_raw is null or province_raw = '' then 'UNKNOWN'
+        else province_raw
     end as province,
 
     contract_type,
     created_at
 
-from limpieza
+from cleaned

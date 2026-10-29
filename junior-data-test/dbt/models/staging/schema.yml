@@ -2,24 +2,21 @@ version: 2
 
 models:
 
-  # EJEMPLO RESUELTO: comprobaciones de calidad sobre stg_workers.
+  # SOLVED EXAMPLE: quality tests on stg_workers.
   - name: stg_workers
-    description: Trabajadores de campo con la provincia y el tipo de contrato normalizados.
+    description: Field workers with normalised province and contract type.
     columns:
       - name: employee_id
-        description: Identificador del trabajador. No puede repetirse ni faltar.
         data_tests:
           - unique
           - not_null
       - name: province
-        description: Provincia en mayúsculas, sin tildes y en su forma habitual.
         data_tests:
           - not_null
       - name: contract_type
-        description: Tipo de contrato. Si no se conoce, vale DESCONOCIDO.
         data_tests:
           - accepted_values:
               arguments:
-                values: ['FIJO', 'EV90', 'EV180', 'INDF', 'OBRA', 'DESCONOCIDO']
+                values: ['FIJO', 'EV90', 'EV180', 'INDF', 'OBRA', 'UNKNOWN']
 
-  # PARTE 2: añade aquí el modelo stg_visits y sus comprobaciones.
+  # PART 2: add stg_visits and its tests here.

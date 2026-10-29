@@ -1,8 +1,8 @@
-prueba_junior:
+junior_test:
   target: local
   outputs:
     local:
       type: duckdb
-      # Base de datos local en un único fichero. No hace falta instalar nada más.
-      path: prueba_junior.duckdb
+      # Single-file local database, nothing else to install.
+      path: junior_test.duckdb
       threads: 1
