@@ -1,0 +1,33 @@
+name: prueba_junior
+version: "1.0.0"
+config-version: 2
+
+profile: prueba_junior
+
+model-paths: ["models"]
+seed-paths: ["seeds"]
+test-paths: ["tests"]
+
+seeds:
+  prueba_junior:
+    # Cargamos todas las columnas como texto para ver los datos tal y como
+    # llegan, con sus espacios y mayúsculas. La limpieza se hace en staging.
+    +column_types:
+      employee_id: varchar
+      employee_first_name: varchar
+      employee_active_status: varchar
+      employee_address_province: varchar
+      employee_contract_type: varchar
+      created_at: varchar
+      visit_id: varchar
+      intervention_point_id: varchar
+      route_id: varchar
+      campaign_id: varchar
+      visit_date: varchar
+      visit_status: varchar
+      updated_at: varchar
+
+models:
+  prueba_junior:
+    staging:
+      +materialized: view

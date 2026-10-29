@@ -6,8 +6,9 @@ This repository hosts our take-home technical tests. Depending on the role you'r
 |---|---|
 | **Data Analyst** | [`/data-analyst-test`](./data-analyst-test) |
 | **Data Engineer** | [`/data-engineer-test`](./data-engineer-test) |
+| **Junior Data (recent graduates)** | [`/junior-data-test`](./junior-data-test) |
 
-If you're not sure which one applies to you, check the email/message where you received the link to this repo, or ask us — don't do both.
+If you're not sure which one applies to you, check the email/message where you received the link to this repo, or ask us — only do one.
 
 ## Getting started (both tests)
 
