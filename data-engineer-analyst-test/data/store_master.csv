@@ -1,0 +1,37 @@
+store_code,retailer,retailer_store_code,store_name,city,region,tier
+S-1001,MegaElectro,ME-011,MegaElectro Madrid Castellana 200,Madrid,Centre,A
+S-1002,MegaElectro,ME-012,MegaElectro Madrid Plenilunio,Madrid,Centre,A
+S-1003,MegaElectro,ME-014,MegaElectro Alcorcón,Madrid,Centre,B
+S-1004,MegaElectro,ME-017,MegaElectro Las Rozas,Madrid,Centre,B
+S-1005,MegaElectro,ME-021,MegaElectro Barcelona Glòries,Barcelona,North-East,A
+S-1006,MegaElectro,ME-022,MegaElectro Barcelona Diagonal Mar,Barcelona,North-East,B
+S-1007,MegaElectro,ME-025,MegaElectro Badalona,Barcelona,North-East,C
+S-1008,MegaElectro,ME-031,MegaElectro Valencia Campanar,Valencia,East,A
+S-1009,MegaElectro,ME-033,MegaElectro Valencia Alfafar,Valencia,East,B
+S-1010,MegaElectro,ME-041,MegaElectro Sevilla Lagoh,Sevilla,South,A
+S-1011,MegaElectro,ME-045,MegaElectro Málaga Plaza Mayor,Málaga,South,B
+S-1012,MegaElectro,ME-051,MegaElectro Bilbao Zubiarte,Bilbao,North,B
+S-1013,MegaElectro,ME-055,MegaElectro Zaragoza Puerto Venecia,Zaragoza,North,B
+S-1014,MegaElectro,ME-061,MegaElectro Murcia Thader,Murcia,East,C
+S-1015,MegaElectro,ME-063,MegaElectro Alicante Gran Vía,Alicante,East,C
+S-1016,MegaElectro,ME-071,MegaElectro Valladolid Río Shopping,Valladolid,North,C
+S-2001,Galerías Prado,GP-101,Galerías Prado Castellana,Madrid,Centre,A
+S-2002,Galerías Prado,GP-102,Galerías Prado Goya,Madrid,Centre,A
+S-2003,Galerías Prado,GP-103,Galerías Prado Princesa,Madrid,Centre,B
+S-2004,Galerías Prado,GP-104,Galerías Prado Pozuelo,Madrid,Centre,B
+S-2005,Galerías Prado,GP-121,Galerías Prado Diagonal,Barcelona,North-East,A
+S-2006,Galerías Prado,GP-122,Galerías Prado Plaça Catalunya,Barcelona,North-East,A
+S-2007,Galerías Prado,GP-131,Galerías Prado Valencia Colón,Valencia,East,B
+S-2008,Galerías Prado,GP-141,Galerías Prado Sevilla Nervión,Sevilla,South,B
+S-2009,Galerías Prado,GP-145,Galerías Prado Málaga,Málaga,South,C
+S-2010,Galerías Prado,GP-151,Galerías Prado Bilbao,Bilbao,North,B
+S-2011,Galerías Prado,GP-155,Galerías Prado Zaragoza,Zaragoza,North,C
+S-2012,Galerías Prado,GP-161,Galerías Prado Murcia,Murcia,East,C
+S-3001,Cultura+,CP-201,Cultura+ Madrid Callao,Madrid,Centre,A
+S-3002,Cultura+,CP-202,Cultura+ Madrid La Vaguada,Madrid,Centre,B
+S-3003,Cultura+,CP-221,Cultura+ Barcelona Triangle,Barcelona,North-East,A
+S-3004,Cultura+,CP-222,Cultura+ Barcelona L'Illa,Barcelona,North-East,C
+S-3005,Cultura+,CP-231,Cultura+ Valencia San Agustín,Valencia,East,C
+S-3006,Cultura+,CP-241,Cultura+ Sevilla Plaza Duque,Sevilla,South,C
+S-3007,Cultura+,CP-251,Cultura+ Bilbao,Bilbao,North,C
+S-3008,Cultura+,CP-255,Cultura+ Zaragoza,Zaragoza,North,C

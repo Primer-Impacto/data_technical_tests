@@ -7,10 +7,11 @@ This repository hosts our take-home technical tests. Depending on the role you'r
 | **Data Analyst** | [`/data-analyst-test`](./data-analyst-test) |
 | **Data Engineer** | [`/data-engineer-test`](./data-engineer-test) |
 | **Junior Data (recent graduates)** | [`/junior-data-test`](./junior-data-test) |
+| **Data Engineer & Analyst (hybrid)** | [`/data-engineer-analyst-test`](./data-engineer-analyst-test) |
 
 If you're not sure which one applies to you, check the email/message where you received the link to this repo, or ask us — only do one.
 
-## Getting started (both tests)
+## Getting started (all tests)
 
 1. Fork this repository to your own GitHub account.
 2. Clone your fork and work only inside the folder for your test.
