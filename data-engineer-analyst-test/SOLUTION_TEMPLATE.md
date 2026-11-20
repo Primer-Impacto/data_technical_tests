@@ -2,7 +2,7 @@
 
 Copy this file to `SOLUTION.md` and fill it in. Bullets are welcome. Short is better than long.
 
-**Time spent:** e.g. 2h05 (Part 1: 1h, Part 2: 45 min, Part 3: 10 min, README: 10 min)
+**Time spent:** e.g. 1h45
 
 **How to run my code:**
 
@@ -12,19 +12,15 @@ Copy this file to `SOLUTION.md` and fill it in. Bullets are welcome. Short is be
 
 ---
 
-## Part 1A: The WEEKLY KPI block for week 46
+## Part 1A: Week 46
 
-### What I found in the data
+### What I found in the data, and what I did
 
-| Issue | How I noticed it | What I did | Impact on week 46 |
-|---|---|---|---|
-| | | | |
+| Issue | What I did | Impact on week 46 |
+|---|---|---|
+| | | |
 
-### Assumptions and decisions
-
--
-
-### What Laura should know before this goes into the client's sheet
+### What Laura should know before this goes to the client
 
 -
 
@@ -32,11 +28,11 @@ Copy this file to `SOLUTION.md` and fill it in. Bullets are welcome. Short is be
 
 -
 
-## Part 1B: Running it in production (one page maximum)
+## Part 1B: Running it every Monday (a few bullets)
 
 -
 
-## Part 2A: Reply to the client (200 words maximum)
+## Part 2A: Reply to the client (150 words maximum)
 
 > Draft here.
 
@@ -44,32 +40,24 @@ Copy this file to `SOLUTION.md` and fill it in. Bullets are welcome. Short is be
 
 ## Part 2B: Field notes
 
-### Top 5 for the client, week 46
+| # | What the client should hear | Stores | Evidence (note IDs) |
+|---|---|---|---|
+| 1 | | | |
+| 2 | | | |
+| 3 | | | |
 
-| Issue | Stores | Sentiment | Evidence (note IDs) | Suggested action |
-|---|---|---|---|---|
-| | | | | |
-
-**How I got there:**
-
-### At scale (a few bullets)
+**With 300 notes a week:**
 
 -
 
-## Part 2C: Surprise us (optional, five lines maximum)
+## Part 2C: Optional insight
 
 -
 
-## Part 3: My first 90 days (150 words maximum)
+## Part 3: First 90 days (three bullets)
 
 -
 
-## How I used AI
-
-What I used it for, and at least one thing it got wrong, or that I had to correct or check.
-
--
-
-## What I would do next with more time
+## How I used AI (two or three lines)
 
 -
